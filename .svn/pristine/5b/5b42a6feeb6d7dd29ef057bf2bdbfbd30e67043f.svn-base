@@ -1,0 +1,13 @@
+Izvajanje test-G
+  Log datoteka: test-G.log
+  Izhod programa: test-G.out
+  Ukazna vrstica: ./Naloga2 psext /home/test/tests/proc-test 30973
+  Izhodni status: 0
+  Realni cas izvajanja: 10
+  Uporabniski cas izvajanja: 4
+  Sistemski cas izvajanja: 7
+  Procesorski cas izvajanja: 11
+Preverjanje test-G
+  Izhodni status: ok
+  Standardni izhod: err
+  Tocke: 0

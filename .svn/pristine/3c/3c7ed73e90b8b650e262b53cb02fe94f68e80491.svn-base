@@ -1,0 +1,10 @@
+0 1 2 3 4 5 
+AFTER
+3 4 5 0 1 2
+  PID  PPID STANJE IME
+ 5644 24154      S sudo
+ 5645  5644      S bash
+ 7249  5645      S copyproc.sh
+24147 30910      S sshd
+24153 24147      S sshd
+24154 24153      S bash

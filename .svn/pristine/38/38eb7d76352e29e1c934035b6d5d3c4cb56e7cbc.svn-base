@@ -1,0 +1,11 @@
+012345678
+  PID  PPID STANJE  #NITI  #DAT. IME
+29573 30973      S      8     16 docker-containe
+29591 29573      S      1      4 bash
+29713 29591      T      1      4 bash
+29714 29591      T      1      4 bash
+29956 29591      S      1      4 bash
+30457 29956      T      1      4 bash
+30458 29956      T      1      4 bash
+30459 29956      T      1      4 bash
+30973 30966      S     15     12 docker-containe

@@ -1,0 +1,183 @@
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 
+AFTER
+0 16 67 170 176 178 1 5 7 8 9 10 11 12 13 14 17 20 21 22 23 30 31 32 35 42 98 100 101 102 103 104 105 108 111 123 124 125 126 127 128 143 154 159 165 177 6 36 39 40 41 43 45 46 48 62 65 77 78 106 107 109 110 112 113 114 115 116 117 118 119 120 121 122 130 131 132 133 134 135 136 139 140 141 144 145 146 147 148 149 151 152 153 155 156 157 158 160 161 162 163 164 166 167 168 169 2 3 4 18 19 38 44 129 137 138 142 150 171 172 173 174 175 15 24 25 26 27 28 29 33 34 37 47 49 50 51 52 53 54 55 56 57 58 59 60 61 63 64 66 68 69 70 71 72 73 74 75 76 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 99
+  PID  PPID STANJE IME
+    1     0      S systemd
+    2     0      S kthreadd
+    3     2      S ksoftirqd/0
+    7     2      S migration/0
+    8     2      S rcu_bh
+    9     2      S rcuob/0
+   10     2      S rcuob/1
+   11     2      S rcuob/2
+   12     2      S rcuob/3
+   13     2      S rcuob/4
+   14     2      S rcuob/5
+   15     2      S rcuob/6
+   16     2      S rcuob/7
+   17     2      S rcu_sched
+   18     2      S rcuos/0
+   19     2      S rcuos/1
+   20     2      S rcuos/2
+   21     2      S rcuos/3
+   22     2      S rcuos/4
+   23     2      S rcuos/5
+   24     2      S rcuos/6
+   25     2      S rcuos/7
+   26     2      S watchdog/0
+   27     2      S watchdog/1
+   28     2      S migration/1
+   29     2      S ksoftirqd/1
+   32     2      S khelper
+   33     2      S kdevtmpfs
+   34     2      S netns
+   35     2      S perf
+   36     2      S writeback
+   37     2      S kintegrityd
+   38     2      S bioset
+   39     2      S kblockd
+   40     2      S md
+   44     2      S khungtaskd
+   45     2      S kswapd0
+   46     2      S ksmd
+   47     2      S khugepaged
+   48     2      S fsnotify_mark
+   49     2      S crypto
+   57     2      S kthrotld
+   59     2      S kmpath_rdacd
+   60     2      S kpsmoused
+   62     2      S ipv6_addrconf
+   81     2      S deferwq
+  112     2      S kauditd
+  281     2      S ata_sff
+  284     2      S events_power_ef
+  286     2      S scsi_eh_0
+  289     2      S scsi_tmf_0
+  292     2      S scsi_eh_1
+  293     2      S scsi_tmf_1
+  294     2      S scsi_eh_2
+  295     2      S scsi_tmf_2
+  296     2      S scsi_eh_3
+  298     2      S scsi_tmf_3
+  305     2      S ttm_swap
+  309     2      S radeon-crtc
+  385     2      S kdmflush
+  386     2      S bioset
+  395     2      S kdmflush
+  396     2      S bioset
+  411     2      S xfsalloc
+  412     2      S xfs_mru_cache
+  413     2      S xfs-buf/dm-0
+  414     2      S xfs-data/dm-0
+  415     2      S xfs-conv/dm-0
+  416     2      S xfs-cil/dm-0
+  417     2      S xfs-reclaim/dm-
+  418     2      S xfs-log/dm-0
+  419     2      S xfs-eofblocks/d
+  420     2      S xfsaild/dm-0
+  424     2      S kworker/u16:0
+  494     1      S systemd-journal
+  536     2      S edac-poller
+  560     2      S xfs-buf/sdb1
+  561     2      S xfs-data/sdb1
+  562     2      S xfs-conv/sdb1
+  563     2      S xfs-cil/sdb1
+  564     2      S xfs-reclaim/sdb
+  565     2      S xfs-log/sdb1
+  566     2      S xfs-eofblocks/s
+  567     2      S xfsaild/sdb1
+  580     2      S xfs-buf/sda1
+  581     2      S xfs-data/sda1
+  582     2      S xfs-conv/sda1
+  583     2      S xfs-cil/sda1
+  584     2      S xfs-reclaim/sda
+  585     2      S xfs-log/sda1
+  586     2      S xfs-eofblocks/s
+  587     2      S kdmflush
+  588     2      S bioset
+  591     2      S xfsaild/sda1
+  597     2      S xfs-buf/dm-2
+  598     2      S xfs-data/dm-2
+  599     2      S xfs-conv/dm-2
+  600     2      S xfs-cil/dm-2
+  601     2      S xfs-reclaim/dm-
+  602     2      S xfs-log/dm-2
+  603     2      S xfs-eofblocks/d
+  604     2      S xfsaild/dm-2
+  644     1      S dbus-daemon
+  649     1      S systemd-logind
+  653     1      S NetworkManager
+  673     1      S agetty
+ 1006     2      S dm_bufio_cache
+ 1067     1      S master
+ 1069  1067      S qmgr
+ 2034     2      S kworker/1:0H
+ 2078  1067      S pickup
+ 2828     2      S kworker/u16:4
+ 2923     2      S kworker/0:1
+ 4906     2      S kworker/0:2
+ 5644 24154      S sudo
+ 5645  5644      S bash
+ 5688     2      S kworker/0:2H
+ 5856     2      S kworker/0:1H
+ 7103     2      S kworker/0:0
+ 7174     2      S kworker/u16:1
+ 7175     2      S kworker/u16:2
+ 7234     2      S kworker/1:2H
+ 7249  5645      S copyproc.sh
+19723     1      S ntpd
+24023 30910      S sshd
+24037 24023      S sshd
+24038 24037      S bash
+24147 30910      S sshd
+24153 24147      S sshd
+24154 24153      S bash
+27556     2      S kworker/1:2
+27990     1      S crond
+28102     1      S systemd-udevd
+29401     1      S svnserve
+29523 24038      S docker-current
+29558     2      S kdmflush
+29559     2      S bioset
+29562     2      S xfs-buf/dm-4
+29563     2      S xfs-data/dm-4
+29564     2      S xfs-conv/dm-4
+29565     2      S xfs-cil/dm-4
+29566     2      S xfs-reclaim/dm-
+29567     2      S xfs-log/dm-4
+29568     2      S xfs-eofblocks/d
+29569     2      S xfsaild/dm-4
+29573 30973      S docker-containe
+29591 29573      S bash
+29713 29591      T bash
+29714 29591      T bash
+29956 29591      S bash
+30053     2      S kworker/1:0
+30377     1      S saslauthd
+30378 30377      S saslauthd
+30379 30377      S saslauthd
+30380 30377      S saslauthd
+30381 30377      S saslauthd
+30457 29956      T bash
+30458 29956      T bash
+30459 29956      T bash
+30910     1      S sshd
+30966     1      S dockerd-current
+30973 30966      S docker-containe
+30982     2      S loop0
+30983     2      S loop1
+30984     2      S kdmflush
+30985     2      S bioset
+30986     2      S kcopyd
+30987     2      S bioset
+30988     2      S dm-thin
+30989     2      S bioset
+31099     1      S lvmetad
+31154     1      S rsyslogd
+31181     1      S auditd
+31264     1      S polkitd
+31273     1      S tuned
+31298     1      S wpa_supplicant
+31386     1      S irqbalance
+31422     2      S kworker/1:1H
+32599     2      S kworker/1:4

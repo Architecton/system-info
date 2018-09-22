@@ -1,0 +1,12 @@
+Izvajanje test-F
+  Log datoteka: test-F.log
+  Izhod programa: test-F.out
+  Ukazna vrstica: ./Naloga2 psext /home/test/tests/proc-test
+  Izhodni status: 139
+  Realni cas izvajanja: 101
+  Uporabniski cas izvajanja: 84
+  Sistemski cas izvajanja: 8
+  Procesorski cas izvajanja: 92
+Preverjanje test-F
+  Izhodni status: err
+  Tocke: 0

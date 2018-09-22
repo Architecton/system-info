@@ -1,0 +1,79 @@
+Naloga2-+-Naloga2-+-Naloga2-+-Naloga2-+-Naloga2
+        |         |         |         `-Naloga2
+        |         |         `-Naloga2-+-Naloga2
+        |         |                   `-Naloga2
+        |         `-Naloga2-+-Naloga2-+-Naloga2
+        |                   |         |-Naloga2
+        |                   |         |-Naloga2
+        |                   |         `-Naloga2
+        |                   |-Naloga2-+-Naloga2
+        |                   |         |-Naloga2
+        |                   |         |-Naloga2
+        |                   |         `-Naloga2
+        |                   `-Naloga2-+-Naloga2
+        |                             |-Naloga2
+        |                             `-Naloga2
+        |-Naloga2-+-Naloga2-+-Naloga2-+-Naloga2
+        |         |         |         |-Naloga2
+        |         |         |         `-Naloga2
+        |         |         |-Naloga2-+-Naloga2
+        |         |         |         `-Naloga2
+        |         |         `-Naloga2
+        |         |-Naloga2-+-Naloga2
+        |         |         |-Naloga2---Naloga2
+        |         |         |-Naloga2---Naloga2
+        |         |         `-Naloga2
+        |         |-Naloga2-+-Naloga2-+-Naloga2
+        |         |         |         |-Naloga2
+        |         |         |         `-Naloga2
+        |         |         `-Naloga2
+        |         `-Naloga2---Naloga2-+-Naloga2
+        |                             |-Naloga2
+        |                             |-Naloga2
+        |                             `-Naloga2
+        |-Naloga2-+-Naloga2---Naloga2-+-Naloga2
+        |         |                   `-Naloga2
+        |         |-Naloga2---Naloga2
+        |         `-Naloga2---Naloga2---Naloga2
+        |-Naloga2-+-Naloga2-+-Naloga2
+        |         |         `-Naloga2
+        |         `-Naloga2---Naloga2---Naloga2
+        `-pstree
+4 2 4 3 2 2 3 3 4 2 1 1 1 1 2 1 1 4 3 4 2 2 4 4 3 2 1 3 2 0 0 1 1 0 3 0 4 1 4 0 1 2 0 1 0 4 0 0 0 1
+
+processing index 1, child_parse index == 1, parse_start_index == 5
+processing index 5, child_parse index == 5, parse_start_index == 20
+processing index 20, child_parse index == 20, parse_start_index == 68
+processing index 21, child_parse index == 20, parse_start_index == 70
+processing index 6, child_parse index == 5, parse_start_index == 22
+processing index 22, child_parse index == 22, parse_start_index == 74
+processing index 23, child_parse index == 22, parse_start_index == 78
+processing index 24, child_parse index == 22, parse_start_index == 82
+processing index 2, child_parse index == 1, parse_start_index == 7
+processing index 7, child_parse index == 7, parse_start_index == 27
+processing index 27, child_parse index == 27, parse_start_index == 93
+processing index 28, child_parse index == 27, parse_start_index == 96
+processing index 29, child_parse index == 27, parse_start_index == 98
+processing index 8, child_parse index == 7, parse_start_index == 30
+processing index 30, child_parse index == 30, parse_start_index == 101
+processing index 31, child_parse index == 30, parse_start_index == 101
+processing index 32, child_parse index == 30, parse_start_index == 102
+processing index 33, child_parse index == 30, parse_start_index == 103
+processing index 9, child_parse index == 7, parse_start_index == 34
+processing index 34, child_parse index == 34, parse_start_index == 107
+processing index 35, child_parse index == 34, parse_start_index == 110
+processing index 10, child_parse index == 7, parse_start_index == 36
+processing index 36, child_parse index == 36, parse_start_index == 112
+processing index 3, child_parse index == 1, parse_start_index == 11
+processing index 11, child_parse index == 11, parse_start_index == 41
+processing index 41, child_parse index == 41, parse_start_index == 127
+processing index 12, child_parse index == 11, parse_start_index == 42
+processing index 42, child_parse index == 42, parse_start_index == 130
+processing index 13, child_parse index == 11, parse_start_index == 43
+processing index 43, child_parse index == 43, parse_start_index == 131
+processing index 4, child_parse index == 1, parse_start_index == 14
+processing index 14, child_parse index == 14, parse_start_index == 47
+processing index 47, child_parse index == 47, parse_start_index == 140
+processing index 48, child_parse index == 47, parse_start_index == 140
+processing index 15, child_parse index == 14, parse_start_index == 49
+processing index 49, child_parse index == 49, parse_start_index == 142

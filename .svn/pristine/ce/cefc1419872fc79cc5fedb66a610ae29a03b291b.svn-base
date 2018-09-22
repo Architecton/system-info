@@ -1,0 +1,12 @@
+Izvajanje test-C
+  Log datoteka: test-C.log
+  Izhod programa: test-C.out
+  Ukazna vrstica: ./Naloga2 names /home/test/tests/proc-test
+  Izhodni status: 124
+  Realni cas izvajanja: 3005
+  Uporabniski cas izvajanja: 2
+  Sistemski cas izvajanja: 4
+  Procesorski cas izvajanja: 6
+Preverjanje test-C
+  Izhodni status: err
+  Tocke: 0

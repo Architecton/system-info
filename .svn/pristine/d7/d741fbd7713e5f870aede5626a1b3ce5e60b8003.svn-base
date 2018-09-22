@@ -1,0 +1,12 @@
+Izvajanje test-E
+  Log datoteka: test-E.log
+  Izhod programa: test-E.out
+  Ukazna vrstica: ./Naloga2 ps /home/test/tests/proc-test 24147
+  Izhodni status: 124
+  Realni cas izvajanja: 3004
+  Uporabniski cas izvajanja: 0
+  Sistemski cas izvajanja: 4
+  Procesorski cas izvajanja: 4
+Preverjanje test-E
+  Izhodni status: err
+  Tocke: 0

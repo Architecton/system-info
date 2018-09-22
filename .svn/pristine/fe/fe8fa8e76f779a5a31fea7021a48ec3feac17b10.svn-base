@@ -1,0 +1,34 @@
+*** Error in `./Naloga2': double free or corruption (!prev): 0x0000000001f66040 ***
+======= Backtrace: =========
+/lib/x86_64-linux-gnu/libc.so.6(+0x777e5)[0x7f67a84f07e5]
+/lib/x86_64-linux-gnu/libc.so.6(+0x7fe0a)[0x7f67a84f8e0a]
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7f67a84fc98c]
+/lib/x86_64-linux-gnu/libc.so.6(closedir+0xd)[0x7f67a854081d]
+./Naloga2[0x401ef7]
+./Naloga2[0x400d30]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf0)[0x7f67a8499830]
+./Naloga2[0x400b29]
+======= Memory map: ========
+00400000-00403000 r-xp 00000000 fd:02 134217894                          /home/test/src/Naloga2
+00602000-00603000 r--p 00002000 fd:02 134217894                          /home/test/src/Naloga2
+00603000-00604000 rw-p 00003000 fd:02 134217894                          /home/test/src/Naloga2
+01f56000-02007000 rw-p 00000000 00:00 0                                  [heap]
+7f67a4000000-7f67a4021000 rw-p 00000000 00:00 0 
+7f67a4021000-7f67a8000000 ---p 00000000 00:00 0 
+7f67a8263000-7f67a8279000 r-xp 00000000 fd:04 25166141                   /lib/x86_64-linux-gnu/libgcc_s.so.1
+7f67a8279000-7f67a8478000 ---p 00016000 fd:04 25166141                   /lib/x86_64-linux-gnu/libgcc_s.so.1
+7f67a8478000-7f67a8479000 rw-p 00015000 fd:04 25166141                   /lib/x86_64-linux-gnu/libgcc_s.so.1
+7f67a8479000-7f67a8638000 r-xp 00000000 fd:04 25166120                   /lib/x86_64-linux-gnu/libc-2.23.so
+7f67a8638000-7f67a8838000 ---p 001bf000 fd:04 25166120                   /lib/x86_64-linux-gnu/libc-2.23.so
+7f67a8838000-7f67a883c000 r--p 001bf000 fd:04 25166120                   /lib/x86_64-linux-gnu/libc-2.23.so
+7f67a883c000-7f67a883e000 rw-p 001c3000 fd:04 25166120                   /lib/x86_64-linux-gnu/libc-2.23.so
+7f67a883e000-7f67a8842000 rw-p 00000000 00:00 0 
+7f67a8842000-7f67a8868000 r-xp 00000000 fd:04 25166100                   /lib/x86_64-linux-gnu/ld-2.23.so
+7f67a8a5f000-7f67a8a62000 rw-p 00000000 00:00 0 
+7f67a8a64000-7f67a8a67000 rw-p 00000000 00:00 0 
+7f67a8a67000-7f67a8a68000 r--p 00025000 fd:04 25166100                   /lib/x86_64-linux-gnu/ld-2.23.so
+7f67a8a68000-7f67a8a69000 rw-p 00026000 fd:04 25166100                   /lib/x86_64-linux-gnu/ld-2.23.so
+7f67a8a69000-7f67a8a6a000 rw-p 00000000 00:00 0 
+7fffe6bdc000-7fffe6bfd000 rw-p 00000000 00:00 0                          [stack]
+7fffe6bfd000-7fffe6bff000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]

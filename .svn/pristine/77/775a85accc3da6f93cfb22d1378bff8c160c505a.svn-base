@@ -1,0 +1,42 @@
+Naloga2-+-Naloga2-+-Naloga2
+        |         |-Naloga2---Naloga2
+        |         |-Naloga2-+-Naloga2---Naloga2
+        |         |         `-Naloga2
+        |         `-Naloga2-+-Naloga2
+        |                   |-Naloga2
+        |                   `-Naloga2
+        |-Naloga2-+-Naloga2-+-Naloga2
+        |         |         |-Naloga2
+        |         |         |-Naloga2
+        |         |         `-Naloga2
+        |         |-Naloga2-+-Naloga2
+        |         |         |-Naloga2
+        |         |         |-Naloga2
+        |         |         |-Naloga2
+        |         |         `-Naloga2
+        |         `-Naloga2
+        |-Naloga2-+-Naloga2
+        |         `-Naloga2
+        |-Naloga2---Naloga2
+        |-Naloga2
+        `-pstree
+5 4 3 2 1 0 1 2 3 4 5 0 0 0 0 1
+
+processing index 1, parse_start_index == 5
+processing index 5, parse_start_index == 14
+processing index 6, parse_start_index == 14
+processing index 14, parse_start_index == 26
+processing index 7, parse_start_index == 15
+processing index 15, parse_start_index == 27
+processing index 16, parse_start_index == 28
+processing index 8, parse_start_index == 17
+processing index 2, parse_start_index == 9
+processing index 9, parse_start_index == 19
+processing index 10, parse_start_index == 23
+processing index 11, parse_start_index == 28
+processing index 3, parse_start_index == 12
+processing index 12, parse_start_index == 27
+processing index 13, parse_start_index == 27
+processing index 4, parse_start_index == 14
+processing index 14, parse_start_index == 26
+processing index 5, parse_start_index == 15

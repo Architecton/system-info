@@ -1,0 +1,82 @@
+Naloga2-+-Naloga2-+-Naloga2-+-Naloga2-+-Naloga2
+        |         |         |         |-Naloga2
+        |         |         |         `-Naloga2
+        |         |         `-Naloga2-+-Naloga2
+        |         |                   |-Naloga2
+        |         |                   |-Naloga2
+        |         |                   `-Naloga2
+        |         `-Naloga2-+-Naloga2-+-Naloga2
+        |                   |         `-Naloga2
+        |                   |-Naloga2-+-Naloga2
+        |                   |         `-Naloga2
+        |                   `-Naloga2-+-Naloga2
+        |                             |-Naloga2
+        |                             |-Naloga2
+        |                             `-Naloga2
+        |-Naloga2-+-Naloga2-+-Naloga2-+-Naloga2
+        |         |         |         |-Naloga2
+        |         |         |         `-Naloga2
+        |         |         |-Naloga2-+-Naloga2
+        |         |         |         `-Naloga2
+        |         |         `-Naloga2
+        |         |-Naloga2-+-Naloga2
+        |         |         |-Naloga2---Naloga2
+        |         |         |-Naloga2---Naloga2
+        |         |         `-Naloga2
+        |         |-Naloga2-+-Naloga2-+-Naloga2
+        |         |         |         |-Naloga2
+        |         |         |         `-Naloga2
+        |         |         `-Naloga2
+        |         `-Naloga2---Naloga2-+-Naloga2
+        |                             |-Naloga2
+        |                             |-Naloga2
+        |                             `-Naloga2
+        |-Naloga2-+-Naloga2---Naloga2---Naloga2
+        |         |-Naloga2---Naloga2-+-Naloga2
+        |         |                   `-Naloga2
+        |         `-Naloga2---Naloga2
+        |-Naloga2-+-Naloga2-+-Naloga2-+-Naloga2
+        |         |         |         |-Naloga2
+        |         |         |         |-Naloga2
+        |         |         |         `-Naloga2
+        |         |         `-Naloga2
+        |         `-Naloga2---Naloga2
+        `-pstree
+4 2 4 3 2 2 3 3 4 2 1 1 1 1 2 1 1 4 3 4 2 2 4 4 3 2 1 3 2 0 0 1 1 0 3 0 4 1 4 0 1 2 0 1 0 4 0 0 0 1
+
+processing index 1, parse_start_index == 5
+processing index 5, parse_start_index == 18
+processing index 18, parse_start_index == 57
+processing index 19, parse_start_index == 60
+processing index 6, parse_start_index == 20
+processing index 20, parse_start_index == 67
+processing index 21, parse_start_index == 69
+processing index 22, parse_start_index == 71
+processing index 2, parse_start_index == 7
+processing index 7, parse_start_index == 27
+processing index 27, parse_start_index == 92
+processing index 28, parse_start_index == 95
+processing index 29, parse_start_index == 97
+processing index 8, parse_start_index == 30
+processing index 30, parse_start_index == 101
+processing index 31, parse_start_index == 101
+processing index 32, parse_start_index == 102
+processing index 33, parse_start_index == 103
+processing index 9, parse_start_index == 34
+processing index 34, parse_start_index == 105
+processing index 35, parse_start_index == 108
+processing index 10, parse_start_index == 36
+processing index 36, parse_start_index == 109
+processing index 3, parse_start_index == 11
+processing index 11, parse_start_index == 40
+processing index 40, parse_start_index == 122
+processing index 12, parse_start_index == 41
+processing index 41, parse_start_index == 124
+processing index 13, parse_start_index == 42
+processing index 42, parse_start_index == 127
+processing index 4, parse_start_index == 14
+processing index 14, parse_start_index == 45
+processing index 45, parse_start_index == 132
+processing index 46, parse_start_index == 136
+processing index 15, parse_start_index == 47
+processing index 47, parse_start_index == 137

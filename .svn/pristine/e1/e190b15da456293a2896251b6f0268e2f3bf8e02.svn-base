@@ -1,0 +1,12 @@
+Izvajanje test-D
+  Log datoteka: test-D.log
+  Izhod programa: test-D.out
+  Ukazna vrstica: ./Naloga2 ps /home/test/tests/proc-test
+  Izhodni status: 124
+  Realni cas izvajanja: 3002
+  Uporabniski cas izvajanja: 0
+  Sistemski cas izvajanja: 3
+  Procesorski cas izvajanja: 3
+Preverjanje test-D
+  Izhodni status: err
+  Tocke: 0

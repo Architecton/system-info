@@ -1,0 +1,3 @@
+  PID  PPID STANJE IME
+24147 30910      S sshd
+24153 24147      S sshd

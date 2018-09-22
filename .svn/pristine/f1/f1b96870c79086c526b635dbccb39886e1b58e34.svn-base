@@ -1,0 +1,4 @@
+Naloga2.c: In function 'ps':
+Naloga2.c:787:14: error: void value not ignored as it ought to be
+  int *perm = sort_found_pids(found_contents, size_contents);
+              ^

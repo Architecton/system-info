@@ -1,0 +1,12 @@
+Izvajanje test-H
+  Log datoteka: test-H.log
+  Izhod programa: test-H.out
+  Ukazna vrstica: ./Naloga2 forktree
+  Izhodni status: 1
+  Realni cas izvajanja: 3
+  Uporabniski cas izvajanja: 2
+  Sistemski cas izvajanja: 1
+  Procesorski cas izvajanja: 3
+Preverjanje test-H
+  Izhodni status: err
+  Tocke: 0

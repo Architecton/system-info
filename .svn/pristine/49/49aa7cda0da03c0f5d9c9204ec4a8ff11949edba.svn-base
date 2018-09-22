@@ -1,0 +1,12 @@
+Izvajanje test-A
+  Log datoteka: test-A.log
+  Izhod programa: test-A.out
+  Ukazna vrstica: ./Naloga2 sys /home/test/tests/proc-test
+  Izhodni status: 124
+  Realni cas izvajanja: 3033
+  Uporabniski cas izvajanja: 0
+  Sistemski cas izvajanja: 4
+  Procesorski cas izvajanja: 4
+Preverjanje test-A
+  Izhodni status: err
+  Tocke: 0

@@ -1,0 +1,12 @@
+Izvajanje test-I
+  Log datoteka: test-I.log
+  Izhod programa: test-I.out
+  Ukazna vrstica: ./Naloga2 forktree
+  Izhodni status: 139
+  Realni cas izvajanja: 30
+  Uporabniski cas izvajanja: 15
+  Sistemski cas izvajanja: 15
+  Procesorski cas izvajanja: 30
+Preverjanje test-I
+  Izhodni status: err
+  Tocke: 0

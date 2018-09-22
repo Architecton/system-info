@@ -1,0 +1,5 @@
+Naloga2.c: In function 'pids':
+Naloga2.c:227:49: error: 'NULLsv' undeclared (first use in this function)
+       while((sub_dir_ptr = readdir(sub_dir)) != NULLsv)
+                                                 ^
+Naloga2.c:227:49: note: each undeclared identifier is reported only once for each function it appears in

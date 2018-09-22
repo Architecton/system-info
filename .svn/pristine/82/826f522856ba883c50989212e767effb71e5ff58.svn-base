@@ -1,0 +1,6 @@
+Prevajanje izvorne kode: 
+  Izvorna datoteka: Naloga2.c
+  Log prevajanja: compile.log
+  Izhod prevajalnika: compile.out
+  Ukazna vrstica: gcc -std=gnu11 'Naloga2.c' -o 'Naloga2'
+  Prevajanje: ok

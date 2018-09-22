@@ -1,0 +1,57 @@
+Naloga2-+-Naloga2-+-Naloga2---Naloga2-+-Naloga2
+        |         |                   |-Naloga2
+        |         |                   |-Naloga2
+        |         |                   |-Naloga2
+        |         |                   `-Naloga2---Naloga2
+        |         |-Naloga2-+-Naloga2
+        |         |         `-Naloga2
+        |         |-Naloga2-+-Naloga2
+        |         |         |-Naloga2
+        |         |         `-Naloga2---Naloga2
+        |         `-Naloga2-+-Naloga2
+        |                   |-Naloga2
+        |                   |-Naloga2
+        |                   `-Naloga2
+        |-Naloga2-+-Naloga2-+-Naloga2
+        |         |         |-Naloga2
+        |         |         |-Naloga2---Naloga2
+        |         |         |-Naloga2
+        |         |         `-Naloga2
+        |         |-Naloga2
+        |         `-Naloga2
+        |-Naloga2-+-Naloga2
+        |         `-Naloga2
+        |-Naloga2---Naloga2---Naloga2
+        |-Naloga2
+        `-pstree
+processing index 1, parse_start_index == 6
+processing index 6, parse_start_index == 10
+processing index 10, parse_start_index == 11
+processing index 11, parse_start_index == 16
+processing index 12, parse_start_index == 16
+processing index 13, parse_start_index == 16
+processing index 14, parse_start_index == 16
+processing index 15, parse_start_index == 16
+processing index 7, parse_start_index == 11
+processing index 11, parse_start_index == 13
+processing index 12, parse_start_index == 13
+processing index 8, parse_start_index == 13
+processing index 13, parse_start_index == 16
+processing index 14, parse_start_index == 16
+processing index 15, parse_start_index == 16
+processing index 9, parse_start_index == 16
+processing index 2, parse_start_index == 10
+processing index 10, parse_start_index == 13
+processing index 13, parse_start_index == 18
+processing index 14, parse_start_index == 18
+processing index 15, parse_start_index == 18
+processing index 16, parse_start_index == 19
+processing index 17, parse_start_index == 19
+processing index 11, parse_start_index == 18
+processing index 12, parse_start_index == 18
+processing index 3, parse_start_index == 13
+processing index 13, parse_start_index == 15
+processing index 14, parse_start_index == 15
+processing index 4, parse_start_index == 15
+processing index 15, parse_start_index == 16
+processing index 5, parse_start_index == 16

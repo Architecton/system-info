@@ -1,0 +1,359 @@
+Scanning dir /home/test/tests/proc-test/1
+READ 1 (systemd) S 0 1 1 0 -1 4202752 20681532 3419966719 100 1215844 244465 365352 12765465 3532681 20 0 1 0 1 47042560 1342 1844674 FROM /home/test/tests/proc-test/1/stat
+Scanning dir /home/test/tests/proc-test/10
+READ 10 (rcuob/1) S 2 0 0 0 -1 2129984 0 0 0 0 0 19 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071580 FROM /home/test/tests/proc-test/10/stat
+Scanning dir /home/test/tests/proc-test/1006
+READ 1006 (dm_bufio_cache) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 13645 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0  FROM /home/test/tests/proc-test/1006/stat
+Scanning dir /home/test/tests/proc-test/1067
+READ 1067 (master) S 1 1067 1067 0 -1 4202816 51184 4324726 3 50 999 32931 3116 6523 20 0 1 0 13745 93327360 330 18446744073709551615 FROM /home/test/tests/proc-test/1067/stat
+Scanning dir /home/test/tests/proc-test/1069
+READ 1069 (qmgr) S 1067 1067 1067 0 -1 4202752 1181 0 5 0 185 1001 0 0 20 0 1 0 13863 93614080 473 18446744073709551615 1403626927308 FROM /home/test/tests/proc-test/1069/stat
+Scanning dir /home/test/tests/proc-test/11
+READ 11 (rcuob/2) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440715800 FROM /home/test/tests/proc-test/11/stat
+Scanning dir /home/test/tests/proc-test/112
+READ 112 (kauditd) S 2 0 0 0 -1 2097216 0 0 0 0 0 20047 0 0 20 0 1 0 76 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440 FROM /home/test/tests/proc-test/112/stat
+Scanning dir /home/test/tests/proc-test/12
+READ 12 (rcuob/3) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440715800 FROM /home/test/tests/proc-test/12/stat
+Scanning dir /home/test/tests/proc-test/13
+READ 13 (rcuob/4) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440715800 FROM /home/test/tests/proc-test/13/stat
+Scanning dir /home/test/tests/proc-test/14
+READ 14 (rcuob/5) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440715800 FROM /home/test/tests/proc-test/14/stat
+Scanning dir /home/test/tests/proc-test/15
+READ 15 (rcuob/6) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440715800 FROM /home/test/tests/proc-test/15/stat
+Scanning dir /home/test/tests/proc-test/16
+READ 16 (rcuob/7) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440715800 FROM /home/test/tests/proc-test/16/stat
+Scanning dir /home/test/tests/proc-test/17
+READ 17 (rcu_sched) S 2 0 0 0 -1 2129984 0 0 0 0 0 158688 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744 FROM /home/test/tests/proc-test/17/stat
+Scanning dir /home/test/tests/proc-test/18
+READ 18 (rcuos/0) S 2 0 0 0 -1 2129984 0 0 0 0 0 51418 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071 FROM /home/test/tests/proc-test/18/stat
+Scanning dir /home/test/tests/proc-test/19
+READ 19 (rcuos/1) S 2 0 0 0 -1 2129984 0 0 0 0 0 80896 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071 FROM /home/test/tests/proc-test/19/stat
+Scanning dir /home/test/tests/proc-test/19723
+READ 19723 (ntpd) S 1 19723 19723 0 -1 1077944640 160316 0 2 0 1146 16898 0 0 20 0 1 0 976249113 30113792 469 18446744073709551615 13 FROM /home/test/tests/proc-test/19723/stat
+Scanning dir /home/test/tests/proc-test/2
+READ 2 (kthreadd) S 0 0 0 0 -1 2129984 0 0 0 0 0 1716 0 0 20 0 1 0 1 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440715 FROM /home/test/tests/proc-test/2/stat
+Scanning dir /home/test/tests/proc-test/20
+READ 20 (rcuos/2) S 2 0 0 0 -1 2129984 0 0 0 0 0 85 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071580 FROM /home/test/tests/proc-test/20/stat
+Scanning dir /home/test/tests/proc-test/2034
+READ 2034 (kworker/1:0H) S 2 0 0 0 -1 69238880 0 0 0 0 0 2 0 0 0 -20 1 0 1367728318 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 FROM /home/test/tests/proc-test/2034/stat
+Scanning dir /home/test/tests/proc-test/2078
+READ 2078 (pickup) S 1067 1067 1067 0 -1 4202752 1106 0 0 0 0 1 0 0 20 0 1 0 1367737796 91222016 974 18446744073709551615 13963423542 FROM /home/test/tests/proc-test/2078/stat
+Scanning dir /home/test/tests/proc-test/21
+READ 21 (rcuos/3) S 2 0 0 0 -1 2129984 0 0 0 0 0 59 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071580 FROM /home/test/tests/proc-test/21/stat
+Scanning dir /home/test/tests/proc-test/22
+READ 22 (rcuos/4) S 2 0 0 0 -1 2129984 0 0 0 0 0 48 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071580 FROM /home/test/tests/proc-test/22/stat
+Scanning dir /home/test/tests/proc-test/23
+READ 23 (rcuos/5) S 2 0 0 0 -1 2129984 0 0 0 0 0 40 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071580 FROM /home/test/tests/proc-test/23/stat
+Scanning dir /home/test/tests/proc-test/24
+READ 24 (rcuos/6) S 2 0 0 0 -1 2129984 0 0 0 0 0 39 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071580 FROM /home/test/tests/proc-test/24/stat
+Scanning dir /home/test/tests/proc-test/24023
+READ 24023 (sshd) S 30910 24023 24023 0 -1 1077944576 1678 1213 0 0 1 41 4 1 20 0 1 0 1367531982 146403328 1248 18446744073709551615  FROM /home/test/tests/proc-test/24023/stat
+Scanning dir /home/test/tests/proc-test/24037
+READ 24037 (sshd) S 24023 24023 24023 0 -1 1077944640 325 0 0 0 7 21 0 0 20 0 1 0 1367532271 146403328 539 18446744073709551615 14032 FROM /home/test/tests/proc-test/24037/stat
+Scanning dir /home/test/tests/proc-test/24038
+READ 24038 (bash) S 24037 24038 24038 34816 29523 4202496 1972 41580 0 6 3 5 23 34 20 0 1 0 1367532273 118288384 531 1844674407370955 FROM /home/test/tests/proc-test/24038/stat
+Scanning dir /home/test/tests/proc-test/24147
+READ 24147 (sshd) S 30910 24147 24147 0 -1 1077944576 1733 1633 0 0 1 39 7 2 20 0 1 0 1367533087 146403328 1258 18446744073709551615  FROM /home/test/tests/proc-test/24147/stat
+Scanning dir /home/test/tests/proc-test/24153
+READ 24153 (sshd) S 24147 24147 24147 0 -1 1077944640 327 0 0 0 83 226 0 0 20 0 1 0 1367534101 146403328 542 18446744073709551615 140 FROM /home/test/tests/proc-test/24153/stat
+Scanning dir /home/test/tests/proc-test/24154
+READ 24154 (bash) S 24153 24154 24154 34817 7249 4202496 6432 997894 0 25 8 25 609 1659 20 0 1 0 1367534103 118255616 529 18446744073 FROM /home/test/tests/proc-test/24154/stat
+Scanning dir /home/test/tests/proc-test/25
+READ 25 (rcuos/7) S 2 0 0 0 -1 2129984 0 0 0 0 0 38 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071580 FROM /home/test/tests/proc-test/25/stat
+Scanning dir /home/test/tests/proc-test/26
+READ 26 (watchdog/0) S 2 0 0 0 -1 69239104 0 0 0 0 0 2595 0 0 -100 0 1 0 3 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467 FROM /home/test/tests/proc-test/26/stat
+Scanning dir /home/test/tests/proc-test/27
+READ 27 (watchdog/1) S 2 0 0 0 -1 69239104 0 0 0 0 0 2594 0 0 -100 0 1 0 3 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467 FROM /home/test/tests/proc-test/27/stat
+Scanning dir /home/test/tests/proc-test/27556
+READ 27556 (kworker/1:2) S 2 0 0 0 -1 69238880 0 0 0 0 0 48 0 0 20 0 1 0 1367572374 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 FROM /home/test/tests/proc-test/27556/stat
+Scanning dir /home/test/tests/proc-test/27990
+READ 27990 (crond) S 1 27990 27990 0 -1 1077944576 1499391 662327852 0 846 467 3992 1126045 515770 20 0 1 0 912803333 129286144 349 1 FROM /home/test/tests/proc-test/27990/stat
+Scanning dir /home/test/tests/proc-test/28
+READ 28 (migration/1) S 2 0 0 0 -1 69238848 0 0 0 0 0 5938 0 0 -100 0 1 0 3 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446 FROM /home/test/tests/proc-test/28/stat
+Scanning dir /home/test/tests/proc-test/281
+READ 281 (ata_sff) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 112 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407 FROM /home/test/tests/proc-test/281/stat
+Scanning dir /home/test/tests/proc-test/28102
+READ 28102 (systemd-udevd) S 1 28102 28102 0 -1 4202752 702434 50515998 1 66 1089 12838 15417 68145 20 0 1 0 912808482 46964736 445 1 FROM /home/test/tests/proc-test/28102/stat
+Scanning dir /home/test/tests/proc-test/2828
+READ 2828 (kworker/u16:4) S 2 0 0 0 -1 69238880 0 0 0 0 0 9 0 0 20 0 1 0 1367746443 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 FROM /home/test/tests/proc-test/2828/stat
+Scanning dir /home/test/tests/proc-test/284
+READ 284 (events_power_ef) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 113 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18 FROM /home/test/tests/proc-test/284/stat
+Scanning dir /home/test/tests/proc-test/286
+READ 286 (scsi_eh_0) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 114 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407 FROM /home/test/tests/proc-test/286/stat
+Scanning dir /home/test/tests/proc-test/289
+READ 289 (scsi_tmf_0) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 117 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674 FROM /home/test/tests/proc-test/289/stat
+Scanning dir /home/test/tests/proc-test/29
+READ 29 (ksoftirqd/1) S 2 0 0 0 -1 69238848 0 0 0 0 0 375 0 0 20 0 1 0 3 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744 FROM /home/test/tests/proc-test/29/stat
+Scanning dir /home/test/tests/proc-test/292
+READ 292 (scsi_eh_1) S 2 0 0 0 -1 2129984 0 0 0 0 0 1 0 0 20 0 1 0 117 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407 FROM /home/test/tests/proc-test/292/stat
+Scanning dir /home/test/tests/proc-test/2923
+READ 2923 (kworker/0:1) S 2 0 0 0 -1 69238880 0 0 0 0 0 17 0 0 20 0 1 0 1367747122 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647  FROM /home/test/tests/proc-test/2923/stat
+Scanning dir /home/test/tests/proc-test/293
+READ 293 (scsi_tmf_1) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 117 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674 FROM /home/test/tests/proc-test/293/stat
+Scanning dir /home/test/tests/proc-test/294
+READ 294 (scsi_eh_2) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 117 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407 FROM /home/test/tests/proc-test/294/stat
+Scanning dir /home/test/tests/proc-test/29401
+READ 29401 (svnserve) S 1 29401 29401 0 -1 4202560 6243040 53427390 2 71 328641 58031 12032 27696 20 0 1 0 941079829 1253916672 23827 FROM /home/test/tests/proc-test/29401/stat
+Scanning dir /home/test/tests/proc-test/295
+READ 295 (scsi_tmf_2) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 117 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674 FROM /home/test/tests/proc-test/295/stat
+Scanning dir /home/test/tests/proc-test/29523
+READ 29523 (docker-current) S 24038 29523 24038 34816 29523 1077944320 3115 0 3 0 22 67 0 0 20 0 8 0 1367622791 227196928 2301 184467 FROM /home/test/tests/proc-test/29523/stat
+Scanning dir /home/test/tests/proc-test/29558
+READ 29558 (kdmflush) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623005 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0  FROM /home/test/tests/proc-test/29558/stat
+Scanning dir /home/test/tests/proc-test/29559
+READ 29559 (bioset) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623005 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18 FROM /home/test/tests/proc-test/29559/stat
+Scanning dir /home/test/tests/proc-test/29562
+READ 29562 (xfs-buf/dm-4) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623007 0 0 18446744073709551615 0 0 0 0 0 0 0 214748364 FROM /home/test/tests/proc-test/29562/stat
+Scanning dir /home/test/tests/proc-test/29563
+READ 29563 (xfs-data/dm-4) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623007 0 0 18446744073709551615 0 0 0 0 0 0 0 21474836 FROM /home/test/tests/proc-test/29563/stat
+Scanning dir /home/test/tests/proc-test/29564
+READ 29564 (xfs-conv/dm-4) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623007 0 0 18446744073709551615 0 0 0 0 0 0 0 21474836 FROM /home/test/tests/proc-test/29564/stat
+Scanning dir /home/test/tests/proc-test/29565
+READ 29565 (xfs-cil/dm-4) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623007 0 0 18446744073709551615 0 0 0 0 0 0 0 214748364 FROM /home/test/tests/proc-test/29565/stat
+Scanning dir /home/test/tests/proc-test/29566
+READ 29566 (xfs-reclaim/dm-) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623007 0 0 18446744073709551615 0 0 0 0 0 0 0 214748 FROM /home/test/tests/proc-test/29566/stat
+Scanning dir /home/test/tests/proc-test/29567
+READ 29567 (xfs-log/dm-4) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623007 0 0 18446744073709551615 0 0 0 0 0 0 0 214748364 FROM /home/test/tests/proc-test/29567/stat
+Scanning dir /home/test/tests/proc-test/29568
+READ 29568 (xfs-eofblocks/d) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623007 0 0 18446744073709551615 0 0 0 0 0 0 0 214748 FROM /home/test/tests/proc-test/29568/stat
+Scanning dir /home/test/tests/proc-test/29569
+READ 29569 (xfsaild/dm-4) S 2 0 0 0 -1 2132032 0 0 0 0 0 0 0 0 20 0 1 0 1367623007 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647  FROM /home/test/tests/proc-test/29569/stat
+Scanning dir /home/test/tests/proc-test/29573
+READ 29573 (docker-containe) S 30973 29573 30973 0 -1 1077944320 1049 7128 0 0 16 75 3 5 20 0 8 0 1367623048 136331264 473 1844674407 FROM /home/test/tests/proc-test/29573/stat
+Scanning dir /home/test/tests/proc-test/29591
+READ 29591 (bash) S 29573 29591 29591 34818 29956 4202752 2112 3689 31 22 5 3 0 5 20 0 1 0 1367623092 18669568 494 184467440737095516 FROM /home/test/tests/proc-test/29591/stat
+Scanning dir /home/test/tests/proc-test/296
+READ 296 (scsi_eh_3) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 117 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407 FROM /home/test/tests/proc-test/296/stat
+Scanning dir /home/test/tests/proc-test/29713
+READ 29713 (bash) T 29591 29713 29591 34818 29956 1077944320 435 0 0 0 0 0 0 0 20 0 1 0 1367631402 18448384 278 18446744073709551615  FROM /home/test/tests/proc-test/29713/stat
+Scanning dir /home/test/tests/proc-test/29714
+READ 29714 (bash) T 29591 29714 29591 34818 29956 1077944320 435 0 0 0 0 0 0 0 20 0 1 0 1367631402 18448384 278 18446744073709551615  FROM /home/test/tests/proc-test/29714/stat
+Scanning dir /home/test/tests/proc-test/298
+READ 298 (scsi_tmf_3) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 118 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674 FROM /home/test/tests/proc-test/298/stat
+Scanning dir /home/test/tests/proc-test/29956
+READ 29956 (bash) S 29591 29956 29591 34818 29956 4202496 2034 109223 0 35 0 4 25 727 20 0 1 0 1367632443 18673664 503 18446744073709 FROM /home/test/tests/proc-test/29956/stat
+Scanning dir /home/test/tests/proc-test/3
+READ 3 (ksoftirqd/0) S 2 0 0 0 -1 69238848 0 0 0 0 0 275 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440 FROM /home/test/tests/proc-test/3/stat
+Scanning dir /home/test/tests/proc-test/30053
+READ 30053 (kworker/1:0) S 2 0 0 0 -1 69238880 0 0 0 0 0 14 0 0 20 0 1 0 1367632995 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 FROM /home/test/tests/proc-test/30053/stat
+Scanning dir /home/test/tests/proc-test/30377
+READ 30377 (saslauthd) S 1 30377 30377 0 -1 4202560 400 0 0 0 169 444 0 0 20 0 1 0 986787722 77246464 449 18446744073709551615 140317 FROM /home/test/tests/proc-test/30377/stat
+Scanning dir /home/test/tests/proc-test/30378
+READ 30378 (saslauthd) S 30377 30377 30377 0 -1 4202560 364 0 0 0 179 437 0 0 20 0 1 0 986787722 77246464 424 18446744073709551615 14 FROM /home/test/tests/proc-test/30378/stat
+Scanning dir /home/test/tests/proc-test/30379
+READ 30379 (saslauthd) S 30377 30377 30377 0 -1 4202560 364 0 0 0 179 436 0 0 20 0 1 0 986787722 77246464 424 18446744073709551615 14 FROM /home/test/tests/proc-test/30379/stat
+Scanning dir /home/test/tests/proc-test/30380
+READ 30380 (saslauthd) S 30377 30377 30377 0 -1 4202560 364 0 0 0 174 442 0 0 20 0 1 0 986787722 77246464 424 18446744073709551615 14 FROM /home/test/tests/proc-test/30380/stat
+Scanning dir /home/test/tests/proc-test/30381
+READ 30381 (saslauthd) S 30377 30377 30377 0 -1 4202560 364 0 0 0 172 445 0 0 20 0 1 0 986787722 77246464 424 18446744073709551615 14 FROM /home/test/tests/proc-test/30381/stat
+Scanning dir /home/test/tests/proc-test/30457
+READ 30457 (bash) T 29956 30457 29591 34818 29956 1077944320 436 0 0 0 0 0 0 0 20 0 1 0 1367635491 18448384 278 18446744073709551615  FROM /home/test/tests/proc-test/30457/stat
+Scanning dir /home/test/tests/proc-test/30458
+READ 30458 (bash) T 29956 30458 29591 34818 29956 1077944320 436 0 0 0 0 0 0 0 20 0 1 0 1367635491 18448384 278 18446744073709551615  FROM /home/test/tests/proc-test/30458/stat
+Scanning dir /home/test/tests/proc-test/30459
+READ 30459 (bash) T 29956 30459 29591 34818 29956 1077944320 436 0 0 0 0 0 0 0 20 0 1 0 1367635491 18448384 278 18446744073709551615  FROM /home/test/tests/proc-test/30459/stat
+Scanning dir /home/test/tests/proc-test/305
+READ 305 (ttm_swap) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 123 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440 FROM /home/test/tests/proc-test/305/stat
+Scanning dir /home/test/tests/proc-test/309
+READ 309 (radeon-crtc) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 126 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467 FROM /home/test/tests/proc-test/309/stat
+Scanning dir /home/test/tests/proc-test/30910
+READ 30910 (sshd) S 1 30910 30910 0 -1 1077944640 3750107 703984935 0 222 2178 21533 2673328 777516 20 0 1 0 912832665 84447232 325 1 FROM /home/test/tests/proc-test/30910/stat
+Scanning dir /home/test/tests/proc-test/30966
+READ 30966 (dockerd-current) S 1 30966 30966 0 -1 1077944576 1473593 13390 85 3 135266 145377 12 46 20 0 15 0 912832820 1143484416 11 FROM /home/test/tests/proc-test/30966/stat
+Scanning dir /home/test/tests/proc-test/30973
+READ 30973 (docker-containe) S 30966 30973 30973 0 -1 1077944576 2852068 663677386 33 691007 19918 9901 5712203 728182 20 0 15 0 9128 FROM /home/test/tests/proc-test/30973/stat
+Scanning dir /home/test/tests/proc-test/30982
+READ 30982 (loop0) S 2 0 0 0 -1 2129984 0 0 0 0 0 47078 0 0 0 -20 1 0 912832925 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1 FROM /home/test/tests/proc-test/30982/stat
+Scanning dir /home/test/tests/proc-test/30983
+READ 30983 (loop1) S 2 0 0 0 -1 2129984 0 0 0 0 0 9483 0 0 0 -20 1 0 912832925 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18 FROM /home/test/tests/proc-test/30983/stat
+Scanning dir /home/test/tests/proc-test/30984
+READ 30984 (kdmflush) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 912832926 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1 FROM /home/test/tests/proc-test/30984/stat
+Scanning dir /home/test/tests/proc-test/30985
+READ 30985 (bioset) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 912832926 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184 FROM /home/test/tests/proc-test/30985/stat
+Scanning dir /home/test/tests/proc-test/30986
+READ 30986 (kcopyd) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 912832933 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184 FROM /home/test/tests/proc-test/30986/stat
+Scanning dir /home/test/tests/proc-test/30987
+READ 30987 (bioset) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 912832933 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184 FROM /home/test/tests/proc-test/30987/stat
+Scanning dir /home/test/tests/proc-test/30988
+READ 30988 (dm-thin) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 912832933 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18 FROM /home/test/tests/proc-test/30988/stat
+Scanning dir /home/test/tests/proc-test/30989
+READ 30989 (bioset) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 912832933 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184 FROM /home/test/tests/proc-test/30989/stat
+Scanning dir /home/test/tests/proc-test/31099
+READ 31099 (lvmetad) S 1 31099 31099 0 -1 1077944576 1489 0 0 0 2 3 0 0 20 0 1 0 912833780 132706304 639 18446744073709551615 1401436 FROM /home/test/tests/proc-test/31099/stat
+Scanning dir /home/test/tests/proc-test/31154
+READ 31154 (rsyslogd) S 1 31154 31154 0 -1 1077944576 5739249 0 391 0 62142 69974 0 0 20 0 3 0 912834415 1195425792 2282 184467440737 FROM /home/test/tests/proc-test/31154/stat
+Scanning dir /home/test/tests/proc-test/31181
+READ 31181 (auditd) S 1 31181 31181 0 -1 4202752 833 0 0 0 8483 17931 0 0 16 -4 2 0 912834781 56745984 434 18446744073709551615 14002 FROM /home/test/tests/proc-test/31181/stat
+Scanning dir /home/test/tests/proc-test/31264
+READ 31264 (polkitd) S 1 31264 31264 0 -1 1077944576 2235 0 0 0 23006 8909 0 0 20 0 6 0 912835964 540291072 2622 18446744073709551615 FROM /home/test/tests/proc-test/31264/stat
+Scanning dir /home/test/tests/proc-test/31273
+READ 31273 (tuned) S 1 31273 31273 0 -1 1077944576 6484 1155 1 0 25579 6319 0 0 20 0 5 0 912836064 566431744 3566 1844674407370955161 FROM /home/test/tests/proc-test/31273/stat
+Scanning dir /home/test/tests/proc-test/31298
+READ 31298 (wpa_supplicant) S 1 31298 31298 0 -1 1077944576 833 0 0 0 0 0 0 0 20 0 1 0 912836111 52133888 523 18446744073709551615 14 FROM /home/test/tests/proc-test/31298/stat
+Scanning dir /home/test/tests/proc-test/31386
+READ 31386 (irqbalance) S 1 31386 31386 0 -1 1077944576 2275607 0 0 0 2657 18414 0 0 20 0 1 0 912837751 19628032 281 1844674407370955 FROM /home/test/tests/proc-test/31386/stat
+Scanning dir /home/test/tests/proc-test/31422
+READ 31422 (kworker/1:1H) S 2 0 0 0 -1 69238880 0 0 0 0 0 3 0 0 0 -20 1 0 1367656108 0 0 18446744073709551615 0 0 0 0 0 0 0 214748364 FROM /home/test/tests/proc-test/31422/stat
+Scanning dir /home/test/tests/proc-test/32
+READ 32 (khelper) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 4 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407157 FROM /home/test/tests/proc-test/32/stat
+Scanning dir /home/test/tests/proc-test/32599
+READ 32599 (kworker/1:4) S 2 0 0 0 -1 69238880 0 0 0 0 0 10 0 0 20 0 1 0 1367693001 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 FROM /home/test/tests/proc-test/32599/stat
+Scanning dir /home/test/tests/proc-test/33
+READ 33 (kdevtmpfs) S 2 0 0 0 -1 2130240 0 0 0 0 0 5156 0 0 20 0 1 0 4 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407 FROM /home/test/tests/proc-test/33/stat
+Scanning dir /home/test/tests/proc-test/34
+READ 34 (netns) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 4 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440715794 FROM /home/test/tests/proc-test/34/stat
+Scanning dir /home/test/tests/proc-test/35
+READ 35 (perf) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 5 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407157949 FROM /home/test/tests/proc-test/35/stat
+Scanning dir /home/test/tests/proc-test/36
+READ 36 (writeback) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 5 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071 FROM /home/test/tests/proc-test/36/stat
+Scanning dir /home/test/tests/proc-test/37
+READ 37 (kintegrityd) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 5 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440 FROM /home/test/tests/proc-test/37/stat
+Scanning dir /home/test/tests/proc-test/38
+READ 38 (bioset) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 5 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071579 FROM /home/test/tests/proc-test/38/stat
+Scanning dir /home/test/tests/proc-test/385
+READ 385 (kdmflush) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 182 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440 FROM /home/test/tests/proc-test/385/stat
+Scanning dir /home/test/tests/proc-test/386
+READ 386 (bioset) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 182 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071 FROM /home/test/tests/proc-test/386/stat
+Scanning dir /home/test/tests/proc-test/39
+READ 39 (kblockd) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 5 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407157 FROM /home/test/tests/proc-test/39/stat
+Scanning dir /home/test/tests/proc-test/395
+READ 395 (kdmflush) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 203 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440 FROM /home/test/tests/proc-test/395/stat
+Scanning dir /home/test/tests/proc-test/396
+READ 396 (bioset) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 203 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071 FROM /home/test/tests/proc-test/396/stat
+Scanning dir /home/test/tests/proc-test/40
+READ 40 (md) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 6 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440715794928 FROM /home/test/tests/proc-test/40/stat
+Scanning dir /home/test/tests/proc-test/411
+READ 411 (xfsalloc) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440 FROM /home/test/tests/proc-test/411/stat
+Scanning dir /home/test/tests/proc-test/412
+READ 412 (xfs_mru_cache) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844 FROM /home/test/tests/proc-test/412/stat
+Scanning dir /home/test/tests/proc-test/413
+READ 413 (xfs-buf/dm-0) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446 FROM /home/test/tests/proc-test/413/stat
+Scanning dir /home/test/tests/proc-test/414
+READ 414 (xfs-data/dm-0) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844 FROM /home/test/tests/proc-test/414/stat
+Scanning dir /home/test/tests/proc-test/415
+READ 415 (xfs-conv/dm-0) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844 FROM /home/test/tests/proc-test/415/stat
+Scanning dir /home/test/tests/proc-test/416
+READ 416 (xfs-cil/dm-0) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446 FROM /home/test/tests/proc-test/416/stat
+Scanning dir /home/test/tests/proc-test/417
+READ 417 (xfs-reclaim/dm-) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18 FROM /home/test/tests/proc-test/417/stat
+Scanning dir /home/test/tests/proc-test/418
+READ 418 (xfs-log/dm-0) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446 FROM /home/test/tests/proc-test/418/stat
+Scanning dir /home/test/tests/proc-test/419
+READ 419 (xfs-eofblocks/d) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18 FROM /home/test/tests/proc-test/419/stat
+Scanning dir /home/test/tests/proc-test/420
+READ 420 (xfsaild/dm-0) S 2 0 0 0 -1 2132032 0 0 0 0 0 112162 0 0 20 0 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18 FROM /home/test/tests/proc-test/420/stat
+Scanning dir /home/test/tests/proc-test/424
+READ 424 (kworker/u16:0) S 2 0 0 0 -1 69238880 0 0 0 0 0 238 0 0 20 0 1 0 1367704270 0 0 18446744073709551615 0 0 0 0 0 0 0 214748364 FROM /home/test/tests/proc-test/424/stat
+Scanning dir /home/test/tests/proc-test/44
+READ  FROM /home/test/tests/proc-test/44/stat
+Scanning dir /home/test/tests/proc-test/45
+READ  FROM /home/test/tests/proc-test/45/stat
+Scanning dir /home/test/tests/proc-test/46
+READ  FROM /home/test/tests/proc-test/46/stat
+Scanning dir /home/test/tests/proc-test/47
+READ  FROM /home/test/tests/proc-test/47/stat
+Scanning dir /home/test/tests/proc-test/48
+READ  FROM /home/test/tests/proc-test/48/stat
+Scanning dir /home/test/tests/proc-test/49
+READ  FROM /home/test/tests/proc-test/49/stat
+Scanning dir /home/test/tests/proc-test/4906
+READ  FROM /home/test/tests/proc-test/4906/stat
+Scanning dir /home/test/tests/proc-test/494
+READ  FROM /home/test/tests/proc-test/494/stat
+Scanning dir /home/test/tests/proc-test/536
+READ  FROM /home/test/tests/proc-test/536/stat
+Scanning dir /home/test/tests/proc-test/560
+READ  FROM /home/test/tests/proc-test/560/stat
+Scanning dir /home/test/tests/proc-test/561
+READ  FROM /home/test/tests/proc-test/561/stat
+Scanning dir /home/test/tests/proc-test/562
+READ  FROM /home/test/tests/proc-test/562/stat
+Scanning dir /home/test/tests/proc-test/563
+READ  FROM /home/test/tests/proc-test/563/stat
+Scanning dir /home/test/tests/proc-test/564
+READ  FROM /home/test/tests/proc-test/564/stat
+Scanning dir /home/test/tests/proc-test/5644
+READ  FROM /home/test/tests/proc-test/5644/stat
+Scanning dir /home/test/tests/proc-test/5645
+READ  FROM /home/test/tests/proc-test/5645/stat
+Scanning dir /home/test/tests/proc-test/565
+READ  FROM /home/test/tests/proc-test/565/stat
+Scanning dir /home/test/tests/proc-test/566
+READ  FROM /home/test/tests/proc-test/566/stat
+Scanning dir /home/test/tests/proc-test/567
+READ  FROM /home/test/tests/proc-test/567/stat
+Scanning dir /home/test/tests/proc-test/5688
+READ  FROM /home/test/tests/proc-test/5688/stat
+Scanning dir /home/test/tests/proc-test/57
+READ  FROM /home/test/tests/proc-test/57/stat
+Scanning dir /home/test/tests/proc-test/580
+READ  FROM /home/test/tests/proc-test/580/stat
+Scanning dir /home/test/tests/proc-test/581
+READ  FROM /home/test/tests/proc-test/581/stat
+Scanning dir /home/test/tests/proc-test/582
+READ  FROM /home/test/tests/proc-test/582/stat
+Scanning dir /home/test/tests/proc-test/583
+READ  FROM /home/test/tests/proc-test/583/stat
+Scanning dir /home/test/tests/proc-test/584
+READ  FROM /home/test/tests/proc-test/584/stat
+Scanning dir /home/test/tests/proc-test/585
+READ  FROM /home/test/tests/proc-test/585/stat
+Scanning dir /home/test/tests/proc-test/5856
+READ  FROM /home/test/tests/proc-test/5856/stat
+Scanning dir /home/test/tests/proc-test/586
+READ  FROM /home/test/tests/proc-test/586/stat
+Scanning dir /home/test/tests/proc-test/587
+READ  FROM /home/test/tests/proc-test/587/stat
+Scanning dir /home/test/tests/proc-test/588
+READ  FROM /home/test/tests/proc-test/588/stat
+Scanning dir /home/test/tests/proc-test/59
+READ  FROM /home/test/tests/proc-test/59/stat
+Scanning dir /home/test/tests/proc-test/591
+READ  FROM /home/test/tests/proc-test/591/stat
+Scanning dir /home/test/tests/proc-test/597
+READ  FROM /home/test/tests/proc-test/597/stat
+Scanning dir /home/test/tests/proc-test/598
+READ  FROM /home/test/tests/proc-test/598/stat
+Scanning dir /home/test/tests/proc-test/599
+READ  FROM /home/test/tests/proc-test/599/stat
+Scanning dir /home/test/tests/proc-test/60
+READ  FROM /home/test/tests/proc-test/60/stat
+Scanning dir /home/test/tests/proc-test/600
+READ  FROM /home/test/tests/proc-test/600/stat
+Scanning dir /home/test/tests/proc-test/601
+READ  FROM /home/test/tests/proc-test/601/stat
+Scanning dir /home/test/tests/proc-test/602
+READ  FROM /home/test/tests/proc-test/602/stat
+Scanning dir /home/test/tests/proc-test/603
+READ  FROM /home/test/tests/proc-test/603/stat
+Scanning dir /home/test/tests/proc-test/604
+READ  FROM /home/test/tests/proc-test/604/stat
+Scanning dir /home/test/tests/proc-test/62
+READ  FROM /home/test/tests/proc-test/62/stat
+Scanning dir /home/test/tests/proc-test/644
+READ  FROM /home/test/tests/proc-test/644/stat
+Scanning dir /home/test/tests/proc-test/649
+READ  FROM /home/test/tests/proc-test/649/stat
+Scanning dir /home/test/tests/proc-test/653
+READ  FROM /home/test/tests/proc-test/653/stat
+Scanning dir /home/test/tests/proc-test/673
+READ  FROM /home/test/tests/proc-test/673/stat
+Scanning dir /home/test/tests/proc-test/7
+READ  FROM /home/test/tests/proc-test/7/stat
+Scanning dir /home/test/tests/proc-test/7103
+READ  FROM /home/test/tests/proc-test/7103/stat
+Scanning dir /home/test/tests/proc-test/7174
+READ  FROM /home/test/tests/proc-test/7174/stat
+Scanning dir /home/test/tests/proc-test/7175
+READ  FROM /home/test/tests/proc-test/7175/stat
+Scanning dir /home/test/tests/proc-test/7234
+READ  FROM /home/test/tests/proc-test/7234/stat
+Scanning dir /home/test/tests/proc-test/7249
+READ  FROM /home/test/tests/proc-test/7249/stat
+Scanning dir /home/test/tests/proc-test/8
+READ  FROM /home/test/tests/proc-test/8/stat
+Scanning dir /home/test/tests/proc-test/81
+READ  FROM /home/test/tests/proc-test/81/stat
+Scanning dir /home/test/tests/proc-test/9
+READ  FROM /home/test/tests/proc-test/9/stat
+1 1 (systemd) S 0 1 1 0 -1 4202752 20681532 3419966719 100 1215844 244465 365352 12765465 3532681 20 0 1 0 1 47042560 1342 184467410 10 (rcuob/1) S 2 0 0 0 -1 2129984 0 0 0 0 0 19 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440715801006 1006 (dm_bufio_cache) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 13645 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1067 1067 (master) S 1 1067 1067 0 -1 4202816 51184 4324726 3 50 999 32931 3116 6523 20 0 1 0 13745 93327360 330 184467440737095516151069 1069 (qmgr) S 1067 1067 1067 0 -1 4202752 1181 0 5 0 185 1001 0 0 20 0 1 0 13863 93614080 473 18446744073709551615 140362692730811 11 (rcuob/2) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440715800112 112 (kauditd) S 2 0 0 0 -1 2097216 0 0 0 0 0 20047 0 0 20 0 1 0 76 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744012 12 (rcuob/3) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071580013 13 (rcuob/4) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071580014 14 (rcuob/5) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071580015 15 (rcuob/6) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071580016 16 (rcuob/7) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071580017 17 (rcu_sched) S 2 0 0 0 -1 2129984 0 0 0 0 0 158688 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674418 18 (rcuos/0) S 2 0 0 0 -1 2129984 0 0 0 0 0 51418 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407119 19 (rcuos/1) S 2 0 0 0 -1 2129984 0 0 0 0 0 80896 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407119723 19723 (ntpd) S 1 19723 19723 0 -1 1077944640 160316 0 2 0 1146 16898 0 0 20 0 1 0 976249113 30113792 469 18446744073709551615 132 2 (kthreadd) S 0 0 0 0 -1 2129984 0 0 0 0 0 1716 0 0 20 0 1 0 1 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071520 20 (rcuos/2) S 2 0 0 0 -1 2129984 0 0 0 0 0 85 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440715802034 2034 (kworker/1:0H) S 2 0 0 0 -1 69238880 0 0 0 0 0 2 0 0 0 -20 1 0 1367728318 0 0 18446744073709551615 0 0 0 0 0 0 0 21474836472078 2078 (pickup) S 1067 1067 1067 0 -1 4202752 1106 0 0 0 0 1 0 0 20 0 1 0 1367737796 91222016 974 18446744073709551615 1396342354221 21 (rcuos/3) S 2 0 0 0 -1 2129984 0 0 0 0 0 59 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407158022 22 (rcuos/4) S 2 0 0 0 -1 2129984 0 0 0 0 0 48 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407158023 23 (rcuos/5) S 2 0 0 0 -1 2129984 0 0 0 0 0 40 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407158024 24 (rcuos/6) S 2 0 0 0 -1 2129984 0 0 0 0 0 39 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407158024023 24023 (sshd) S 30910 24023 24023 0 -1 1077944576 1678 1213 0 0 1 41 4 1 20 0 1 0 1367531982 146403328 1248 18446744073709551615 24037 24037 (sshd) S 24023 24023 24023 0 -1 1077944640 325 0 0 0 7 21 0 0 20 0 1 0 1367532271 146403328 539 18446744073709551615 1403224038 24038 (bash) S 24037 24038 24038 34816 29523 4202496 1972 41580 0 6 3 5 23 34 20 0 1 0 1367532273 118288384 531 184467440737095524147 24147 (sshd) S 30910 24147 24147 0 -1 1077944576 1733 1633 0 0 1 39 7 2 20 0 1 0 1367533087 146403328 1258 18446744073709551615 24153 24153 (sshd) S 24147 24147 24147 0 -1 1077944640 327 0 0 0 83 226 0 0 20 0 1 0 1367534101 146403328 542 18446744073709551615 14024154 24154 (bash) S 24153 24154 24154 34817 7249 4202496 6432 997894 0 25 8 25 609 1659 20 0 1 0 1367534103 118255616 529 1844674407325 25 (rcuos/7) S 2 0 0 0 -1 2129984 0 0 0 0 0 38 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407158026 26 (watchdog/0) S 2 0 0 0 -1 69239104 0 0 0 0 0 2595 0 0 -100 0 1 0 3 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446727 27 (watchdog/1) S 2 0 0 0 -1 69239104 0 0 0 0 0 2594 0 0 -100 0 1 0 3 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446727556 27556 (kworker/1:2) S 2 0 0 0 -1 69238880 0 0 0 0 0 48 0 0 20 0 1 0 1367572374 0 0 18446744073709551615 0 0 0 0 0 0 0 214748364727990 27990 (crond) S 1 27990 27990 0 -1 1077944576 1499391 662327852 0 846 467 3992 1126045 515770 20 0 1 0 912803333 129286144 349 128 28 (migration/1) S 2 0 0 0 -1 69238848 0 0 0 0 0 5938 0 0 -100 0 1 0 3 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446281 281 (ata_sff) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 112 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440728102 28102 (systemd-udevd) S 1 28102 28102 0 -1 4202752 702434 50515998 1 66 1089 12838 15417 68145 20 0 1 0 912808482 46964736 445 12828 2828 (kworker/u16:4) S 2 0 0 0 -1 69238880 0 0 0 0 0 9 0 0 20 0 1 0 1367746443 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647284 284 (events_power_ef) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 113 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18286 286 (scsi_eh_0) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 114 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407289 289 (scsi_tmf_0) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 117 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467429 29 (ksoftirqd/1) S 2 0 0 0 -1 69238848 0 0 0 0 0 375 0 0 20 0 1 0 3 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744292 292 (scsi_eh_1) S 2 0 0 0 -1 2129984 0 0 0 0 0 1 0 0 20 0 1 0 117 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744072923 2923 (kworker/0:1) S 2 0 0 0 -1 69238880 0 0 0 0 0 17 0 0 20 0 1 0 1367747122 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 293 293 (scsi_tmf_1) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 117 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674294 294 (scsi_eh_2) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 117 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440729401 29401 (svnserve) S 1 29401 29401 0 -1 4202560 6243040 53427390 2 71 328641 58031 12032 27696 20 0 1 0 941079829 1253916672 23827295 295 (scsi_tmf_2) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 117 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467429523 29523 (docker-current) S 24038 29523 24038 34816 29523 1077944320 3115 0 3 0 22 67 0 0 20 0 8 0 1367622791 227196928 2301 18446729558 29558 (kdmflush) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623005 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 29559 29559 (bioset) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623005 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1829562 29562 (xfs-buf/dm-4) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623007 0 0 18446744073709551615 0 0 0 0 0 0 0 21474836429563 29563 (xfs-data/dm-4) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623007 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483629564 29564 (xfs-conv/dm-4) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623007 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483629565 29565 (xfs-cil/dm-4) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623007 0 0 18446744073709551615 0 0 0 0 0 0 0 21474836429566 29566 (xfs-reclaim/dm-) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623007 0 0 18446744073709551615 0 0 0 0 0 0 0 21474829567 29567 (xfs-log/dm-4) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623007 0 0 18446744073709551615 0 0 0 0 0 0 0 21474836429568 29568 (xfs-eofblocks/d) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 1367623007 0 0 18446744073709551615 0 0 0 0 0 0 0 21474829569 29569 (xfsaild/dm-4) S 2 0 0 0 -1 2132032 0 0 0 0 0 0 0 0 20 0 1 0 1367623007 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 29573 29573 (docker-containe) S 30973 29573 30973 0 -1 1077944320 1049 7128 0 0 16 75 3 5 20 0 8 0 1367623048 136331264 473 184467440729591 29591 (bash) S 29573 29591 29591 34818 29956 4202752 2112 3689 31 22 5 3 0 5 20 0 1 0 1367623092 18669568 494 184467440737095516296 296 (scsi_eh_3) S 2 0 0 0 -1 2129984 0 0 0 0 0 0 0 0 20 0 1 0 117 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440729713 29713 (bash) T 29591 29713 29591 34818 29956 1077944320 435 0 0 0 0 0 0 0 20 0 1 0 1367631402 18448384 278 18446744073709551615 29714 29714 (bash) T 29591 29714 29591 34818 29956 1077944320 435 0 0 0 0 0 0 0 20 0 1 0 1367631402 18448384 278 18446744073709551615 298 298 (scsi_tmf_3) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 118 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467429956 29956 (bash) S 29591 29956 29591 34818 29956 4202496 2034 109223 0 35 0 4 25 727 20 0 1 0 1367632443 18673664 503 184467440737093 3 (ksoftirqd/0) S 2 0 0 0 -1 69238848 0 0 0 0 0 275 0 0 20 0 1 0 2 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744030053 30053 (kworker/1:0) S 2 0 0 0 -1 69238880 0 0 0 0 0 14 0 0 20 0 1 0 1367632995 0 0 18446744073709551615 0 0 0 0 0 0 0 214748364730377 30377 (saslauthd) S 1 30377 30377 0 -1 4202560 400 0 0 0 169 444 0 0 20 0 1 0 986787722 77246464 449 18446744073709551615 14031730378 30378 (saslauthd) S 30377 30377 30377 0 -1 4202560 364 0 0 0 179 437 0 0 20 0 1 0 986787722 77246464 424 18446744073709551615 1430379 30379 (saslauthd) S 30377 30377 30377 0 -1 4202560 364 0 0 0 179 436 0 0 20 0 1 0 986787722 77246464 424 18446744073709551615 1430380 30380 (saslauthd) S 30377 30377 30377 0 -1 4202560 364 0 0 0 174 442 0 0 20 0 1 0 986787722 77246464 424 18446744073709551615 1430381 30381 (saslauthd) S 30377 30377 30377 0 -1 4202560 364 0 0 0 172 445 0 0 20 0 1 0 986787722 77246464 424 18446744073709551615 1430457 30457 (bash) T 29956 30457 29591 34818 29956 1077944320 436 0 0 0 0 0 0 0 20 0 1 0 1367635491 18448384 278 18446744073709551615 30458 30458 (bash) T 29956 30458 29591 34818 29956 1077944320 436 0 0 0 0 0 0 0 20 0 1 0 1367635491 18448384 278 18446744073709551615 30459 30459 (bash) T 29956 30459 29591 34818 29956 1077944320 436 0 0 0 0 0 0 0 20 0 1 0 1367635491 18448384 278 18446744073709551615 305 305 (ttm_swap) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 123 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440309 309 (radeon-crtc) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 126 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446730910 30910 (sshd) S 1 30910 30910 0 -1 1077944640 3750107 703984935 0 222 2178 21533 2673328 777516 20 0 1 0 912832665 84447232 325 130966 30966 (dockerd-current) S 1 30966 30966 0 -1 1077944576 1473593 13390 85 3 135266 145377 12 46 20 0 15 0 912832820 1143484416 1130973 30973 (docker-containe) S 30966 30973 30973 0 -1 1077944576 2852068 663677386 33 691007 19918 9901 5712203 728182 20 0 15 0 912830982 30982 (loop0) S 2 0 0 0 -1 2129984 0 0 0 0 0 47078 0 0 0 -20 1 0 912832925 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 130983 30983 (loop1) S 2 0 0 0 -1 2129984 0 0 0 0 0 9483 0 0 0 -20 1 0 912832925 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1830984 30984 (kdmflush) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 912832926 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 130985 30985 (bioset) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 912832926 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18430986 30986 (kcopyd) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 912832933 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18430987 30987 (bioset) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 912832933 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18430988 30988 (dm-thin) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 912832933 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1830989 30989 (bioset) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 912832933 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18431099 31099 (lvmetad) S 1 31099 31099 0 -1 1077944576 1489 0 0 0 2 3 0 0 20 0 1 0 912833780 132706304 639 18446744073709551615 140143631154 31154 (rsyslogd) S 1 31154 31154 0 -1 1077944576 5739249 0 391 0 62142 69974 0 0 20 0 3 0 912834415 1195425792 2282 18446744073731181 31181 (auditd) S 1 31181 31181 0 -1 4202752 833 0 0 0 8483 17931 0 0 16 -4 2 0 912834781 56745984 434 18446744073709551615 1400231264 31264 (polkitd) S 1 31264 31264 0 -1 1077944576 2235 0 0 0 23006 8909 0 0 20 0 6 0 912835964 540291072 2622 1844674407370955161531273 31273 (tuned) S 1 31273 31273 0 -1 1077944576 6484 1155 1 0 25579 6319 0 0 20 0 5 0 912836064 566431744 3566 184467440737095516131298 31298 (wpa_supplicant) S 1 31298 31298 0 -1 1077944576 833 0 0 0 0 0 0 0 20 0 1 0 912836111 52133888 523 18446744073709551615 1431386 31386 (irqbalance) S 1 31386 31386 0 -1 1077944576 2275607 0 0 0 2657 18414 0 0 20 0 1 0 912837751 19628032 281 184467440737095531422 31422 (kworker/1:1H) S 2 0 0 0 -1 69238880 0 0 0 0 0 3 0 0 0 -20 1 0 1367656108 0 0 18446744073709551615 0 0 0 0 0 0 0 21474836432 32 (khelper) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 4 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440715732599 32599 (kworker/1:4) S 2 0 0 0 -1 69238880 0 0 0 0 0 10 0 0 20 0 1 0 1367693001 0 0 18446744073709551615 0 0 0 0 0 0 0 214748364733 33 (kdevtmpfs) S 2 0 0 0 -1 2130240 0 0 0 0 0 5156 0 0 20 0 1 0 4 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440734 34 (netns) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 4 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071579435 35 (perf) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 5 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440715794936 36 (writeback) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 5 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407137 37 (kintegrityd) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 5 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744038 38 (bioset) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 5 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446744071579385 385 (kdmflush) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 182 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440386 386 (bioset) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 182 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407139 39 (kblockd) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 5 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407157395 395 (kdmflush) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 203 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440396 396 (bioset) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 203 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844674407140 40 (md) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 6 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440715794928411 411 (xfsalloc) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 184467440412 412 (xfs_mru_cache) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844413 413 (xfs-buf/dm-0) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446414 414 (xfs-data/dm-0) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844415 415 (xfs-conv/dm-0) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 1844416 416 (xfs-cil/dm-0) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446417 417 (xfs-reclaim/dm-) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18418 418 (xfs-log/dm-0) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18446419 419 (xfs-eofblocks/d) S 2 0 0 0 -1 69238880 0 0 0 0 0 0 0 0 0 -20 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18420 420 (xfsaild/dm-0) S 2 0 0 0 -1 2132032 0 0 0 0 0 112162 0 0 20 0 1 0 231 0 0 18446744073709551615 0 0 0 0 0 0 0 2147483647 0 18424 424 (kworker/u16:0) S 2 0 0 0 -1 69238880 0 0 0 0 0 238 0 0 20 0 1 0 1367704270 0 0 18446744073709551615 0 0 0 0 0 0 0 214748364

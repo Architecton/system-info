@@ -1,0 +1,4 @@
+Linux: 3.10.0-327.36.2.el7.x86_64
+gcc: 4.8.5
+Swap: /dev/dm-1
+Modules: 59

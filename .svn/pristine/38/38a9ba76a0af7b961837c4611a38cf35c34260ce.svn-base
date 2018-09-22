@@ -1,0 +1,13 @@
+Izvajanje test-D
+  Log datoteka: test-D.log
+  Izhod programa: test-D.out
+  Ukazna vrstica: ./Naloga2 ps /home/test/tests/proc-test
+  Izhodni status: 0
+  Realni cas izvajanja: 17
+  Uporabniski cas izvajanja: 11
+  Sistemski cas izvajanja: 6
+  Procesorski cas izvajanja: 17
+Preverjanje test-D
+  Izhodni status: ok
+  Standardni izhod: ok
+  Tocke: 1

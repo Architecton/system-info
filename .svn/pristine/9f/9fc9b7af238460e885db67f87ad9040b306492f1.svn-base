@@ -1,0 +1,7 @@
+Naloga2.c: In function 'pids':
+Naloga2.c:233:55: error: expected expression before ')' token
+          char *comm_path = calloc((strlen(sub_path) + ), sizeof(char));
+                                                       ^
+Naloga2.c:238:17: warning: format '%d' expects argument of type 'int', but argument 2 has type 'size_t {aka long unsigned int}' [-Wformat=]
+          printf("len sub path == %d\n", strlen(sub_path));
+                 ^

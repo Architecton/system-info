@@ -1,0 +1,12 @@
+Izvajanje test-B
+  Log datoteka: test-B.log
+  Izhod programa: test-B.out
+  Ukazna vrstica: ./Naloga2 pids /home/test/tests/proc-test
+  Izhodni status: 124
+  Realni cas izvajanja: 3005
+  Uporabniski cas izvajanja: 2
+  Sistemski cas izvajanja: 3
+  Procesorski cas izvajanja: 5
+Preverjanje test-B
+  Izhodni status: err
+  Tocke: 0

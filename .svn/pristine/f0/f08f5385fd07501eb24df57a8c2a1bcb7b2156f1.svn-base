@@ -1,0 +1,425 @@
+Scanning dir /home/test/tests/proc-test/1
+READ systemd
+ FROM /home/test/tests/proc-test/1/commScanning dir /home/test/tests/proc-test/10
+READ rcuob/1
+ FROM /home/test/tests/proc-test/10/commScanning dir /home/test/tests/proc-test/1006
+READ dm_bufio_cache
+ FROM /home/test/tests/proc-test/1006/commScanning dir /home/test/tests/proc-test/1067
+READ master
+ FROM /home/test/tests/proc-test/1067/commScanning dir /home/test/tests/proc-test/1069
+READ qmgr
+ FROM /home/test/tests/proc-test/1069/commScanning dir /home/test/tests/proc-test/11
+READ rcuob/2
+ FROM /home/test/tests/proc-test/11/commScanning dir /home/test/tests/proc-test/112
+READ kauditd
+ FROM /home/test/tests/proc-test/112/commScanning dir /home/test/tests/proc-test/12
+READ rcuob/3
+ FROM /home/test/tests/proc-test/12/commScanning dir /home/test/tests/proc-test/13
+READ rcuob/4
+ FROM /home/test/tests/proc-test/13/commScanning dir /home/test/tests/proc-test/14
+READ rcuob/5
+ FROM /home/test/tests/proc-test/14/commScanning dir /home/test/tests/proc-test/15
+READ rcuob/6
+ FROM /home/test/tests/proc-test/15/commScanning dir /home/test/tests/proc-test/16
+READ rcuob/7
+ FROM /home/test/tests/proc-test/16/commScanning dir /home/test/tests/proc-test/17
+READ rcu_sched
+ FROM /home/test/tests/proc-test/17/commScanning dir /home/test/tests/proc-test/18
+READ rcuos/0
+ FROM /home/test/tests/proc-test/18/commScanning dir /home/test/tests/proc-test/19
+READ rcuos/1
+ FROM /home/test/tests/proc-test/19/commScanning dir /home/test/tests/proc-test/19723
+READ ntpd
+ FROM /home/test/tests/proc-test/19723/commScanning dir /home/test/tests/proc-test/2
+READ kthreadd
+ FROM /home/test/tests/proc-test/2/commScanning dir /home/test/tests/proc-test/20
+READ rcuos/2
+ FROM /home/test/tests/proc-test/20/commScanning dir /home/test/tests/proc-test/2034
+READ kworker/1:0H
+ FROM /home/test/tests/proc-test/2034/commScanning dir /home/test/tests/proc-test/2078
+READ pickup
+ FROM /home/test/tests/proc-test/2078/commScanning dir /home/test/tests/proc-test/21
+READ rcuos/3
+ FROM /home/test/tests/proc-test/21/commScanning dir /home/test/tests/proc-test/22
+READ rcuos/4
+ FROM /home/test/tests/proc-test/22/commScanning dir /home/test/tests/proc-test/23
+READ rcuos/5
+ FROM /home/test/tests/proc-test/23/commScanning dir /home/test/tests/proc-test/24
+READ rcuos/6
+ FROM /home/test/tests/proc-test/24/commScanning dir /home/test/tests/proc-test/24023
+READ sshd
+ FROM /home/test/tests/proc-test/24023/commScanning dir /home/test/tests/proc-test/24037
+READ sshd
+ FROM /home/test/tests/proc-test/24037/commScanning dir /home/test/tests/proc-test/24038
+READ bash
+ FROM /home/test/tests/proc-test/24038/commScanning dir /home/test/tests/proc-test/24147
+READ sshd
+ FROM /home/test/tests/proc-test/24147/commScanning dir /home/test/tests/proc-test/24153
+READ sshd
+ FROM /home/test/tests/proc-test/24153/commScanning dir /home/test/tests/proc-test/24154
+READ bash
+ FROM /home/test/tests/proc-test/24154/commScanning dir /home/test/tests/proc-test/25
+READ rcuos/7
+ FROM /home/test/tests/proc-test/25/commScanning dir /home/test/tests/proc-test/26
+READ watchdog/0
+ FROM /home/test/tests/proc-test/26/commScanning dir /home/test/tests/proc-test/27
+READ watchdog/1
+ FROM /home/test/tests/proc-test/27/commScanning dir /home/test/tests/proc-test/27556
+READ kworker/1:2
+ FROM /home/test/tests/proc-test/27556/commScanning dir /home/test/tests/proc-test/27990
+READ crond
+ FROM /home/test/tests/proc-test/27990/commScanning dir /home/test/tests/proc-test/28
+READ migration/1
+ FROM /home/test/tests/proc-test/28/commScanning dir /home/test/tests/proc-test/281
+READ ata_sff
+ FROM /home/test/tests/proc-test/281/commScanning dir /home/test/tests/proc-test/28102
+READ systemd-udevd
+ FROM /home/test/tests/proc-test/28102/commScanning dir /home/test/tests/proc-test/2828
+READ kworker/u16:4
+ FROM /home/test/tests/proc-test/2828/commScanning dir /home/test/tests/proc-test/284
+READ events_power_ef
+ FROM /home/test/tests/proc-test/284/commScanning dir /home/test/tests/proc-test/286
+READ scsi_eh_0
+ FROM /home/test/tests/proc-test/286/commScanning dir /home/test/tests/proc-test/289
+READ scsi_tmf_0
+ FROM /home/test/tests/proc-test/289/commScanning dir /home/test/tests/proc-test/29
+READ ksoftirqd/1
+ FROM /home/test/tests/proc-test/29/commScanning dir /home/test/tests/proc-test/292
+READ scsi_eh_1
+ FROM /home/test/tests/proc-test/292/commScanning dir /home/test/tests/proc-test/2923
+READ kworker/0:1
+ FROM /home/test/tests/proc-test/2923/commScanning dir /home/test/tests/proc-test/293
+READ scsi_tmf_1
+ FROM /home/test/tests/proc-test/293/commScanning dir /home/test/tests/proc-test/294
+READ scsi_eh_2
+ FROM /home/test/tests/proc-test/294/commScanning dir /home/test/tests/proc-test/29401
+READ svnserve
+ FROM /home/test/tests/proc-test/29401/commScanning dir /home/test/tests/proc-test/295
+READ scsi_tmf_2
+ FROM /home/test/tests/proc-test/295/commScanning dir /home/test/tests/proc-test/29523
+READ docker-current
+ FROM /home/test/tests/proc-test/29523/commScanning dir /home/test/tests/proc-test/29558
+READ kdmflush
+ FROM /home/test/tests/proc-test/29558/commScanning dir /home/test/tests/proc-test/29559
+READ bioset
+ FROM /home/test/tests/proc-test/29559/commScanning dir /home/test/tests/proc-test/29562
+READ xfs-buf/dm-4
+ FROM /home/test/tests/proc-test/29562/commScanning dir /home/test/tests/proc-test/29563
+READ xfs-data/dm-4
+ FROM /home/test/tests/proc-test/29563/commScanning dir /home/test/tests/proc-test/29564
+READ xfs-conv/dm-4
+ FROM /home/test/tests/proc-test/29564/commScanning dir /home/test/tests/proc-test/29565
+READ xfs-cil/dm-4
+ FROM /home/test/tests/proc-test/29565/commScanning dir /home/test/tests/proc-test/29566
+READ xfs-reclaim/dm-
+ FROM /home/test/tests/proc-test/29566/commScanning dir /home/test/tests/proc-test/29567
+READ xfs-log/dm-4
+ FROM /home/test/tests/proc-test/29567/commScanning dir /home/test/tests/proc-test/29568
+READ xfs-eofblocks/d
+ FROM /home/test/tests/proc-test/29568/commScanning dir /home/test/tests/proc-test/29569
+READ xfsaild/dm-4
+ FROM /home/test/tests/proc-test/29569/commScanning dir /home/test/tests/proc-test/29573
+READ docker-containe
+ FROM /home/test/tests/proc-test/29573/commScanning dir /home/test/tests/proc-test/29591
+READ bash
+ FROM /home/test/tests/proc-test/29591/commScanning dir /home/test/tests/proc-test/296
+READ scsi_eh_3
+ FROM /home/test/tests/proc-test/296/commScanning dir /home/test/tests/proc-test/29713
+READ bash
+ FROM /home/test/tests/proc-test/29713/commScanning dir /home/test/tests/proc-test/29714
+READ bash
+ FROM /home/test/tests/proc-test/29714/commScanning dir /home/test/tests/proc-test/298
+READ scsi_tmf_3
+ FROM /home/test/tests/proc-test/298/commScanning dir /home/test/tests/proc-test/29956
+READ bash
+ FROM /home/test/tests/proc-test/29956/commScanning dir /home/test/tests/proc-test/3
+READ ksoftirqd/0
+ FROM /home/test/tests/proc-test/3/commScanning dir /home/test/tests/proc-test/30053
+READ kworker/1:0
+ FROM /home/test/tests/proc-test/30053/commScanning dir /home/test/tests/proc-test/30377
+READ saslauthd
+ FROM /home/test/tests/proc-test/30377/commScanning dir /home/test/tests/proc-test/30378
+READ saslauthd
+ FROM /home/test/tests/proc-test/30378/commScanning dir /home/test/tests/proc-test/30379
+READ saslauthd
+ FROM /home/test/tests/proc-test/30379/commScanning dir /home/test/tests/proc-test/30380
+READ saslauthd
+ FROM /home/test/tests/proc-test/30380/commScanning dir /home/test/tests/proc-test/30381
+READ saslauthd
+ FROM /home/test/tests/proc-test/30381/commScanning dir /home/test/tests/proc-test/30457
+READ bash
+ FROM /home/test/tests/proc-test/30457/commScanning dir /home/test/tests/proc-test/30458
+READ bash
+ FROM /home/test/tests/proc-test/30458/commScanning dir /home/test/tests/proc-test/30459
+READ bash
+ FROM /home/test/tests/proc-test/30459/commScanning dir /home/test/tests/proc-test/305
+READ ttm_swap
+ FROM /home/test/tests/proc-test/305/commScanning dir /home/test/tests/proc-test/309
+READ radeon-crtc
+ FROM /home/test/tests/proc-test/309/commScanning dir /home/test/tests/proc-test/30910
+READ sshd
+ FROM /home/test/tests/proc-test/30910/commScanning dir /home/test/tests/proc-test/30966
+READ dockerd-current
+ FROM /home/test/tests/proc-test/30966/commScanning dir /home/test/tests/proc-test/30973
+READ docker-containe
+ FROM /home/test/tests/proc-test/30973/commScanning dir /home/test/tests/proc-test/30982
+READ loop0
+ FROM /home/test/tests/proc-test/30982/commScanning dir /home/test/tests/proc-test/30983
+READ loop1
+ FROM /home/test/tests/proc-test/30983/commScanning dir /home/test/tests/proc-test/30984
+READ kdmflush
+ FROM /home/test/tests/proc-test/30984/commScanning dir /home/test/tests/proc-test/30985
+READ bioset
+ FROM /home/test/tests/proc-test/30985/commScanning dir /home/test/tests/proc-test/30986
+READ kcopyd
+ FROM /home/test/tests/proc-test/30986/commScanning dir /home/test/tests/proc-test/30987
+READ bioset
+ FROM /home/test/tests/proc-test/30987/commScanning dir /home/test/tests/proc-test/30988
+READ dm-thin
+ FROM /home/test/tests/proc-test/30988/commScanning dir /home/test/tests/proc-test/30989
+READ bioset
+ FROM /home/test/tests/proc-test/30989/commScanning dir /home/test/tests/proc-test/31099
+READ lvmetad
+ FROM /home/test/tests/proc-test/31099/commScanning dir /home/test/tests/proc-test/31154
+READ rsyslogd
+ FROM /home/test/tests/proc-test/31154/commScanning dir /home/test/tests/proc-test/31181
+READ auditd
+ FROM /home/test/tests/proc-test/31181/commScanning dir /home/test/tests/proc-test/31264
+READ polkitd
+ FROM /home/test/tests/proc-test/31264/commScanning dir /home/test/tests/proc-test/31273
+READ tuned
+ FROM /home/test/tests/proc-test/31273/commScanning dir /home/test/tests/proc-test/31298
+READ wpa_supplicant
+ FROM /home/test/tests/proc-test/31298/commScanning dir /home/test/tests/proc-test/31386
+READ irqbalance
+ FROM /home/test/tests/proc-test/31386/commScanning dir /home/test/tests/proc-test/31422
+READ kworker/1:1H
+ FROM /home/test/tests/proc-test/31422/commScanning dir /home/test/tests/proc-test/32
+READ khelper
+ FROM /home/test/tests/proc-test/32/commScanning dir /home/test/tests/proc-test/32599
+READ kworker/1:4
+ FROM /home/test/tests/proc-test/32599/commScanning dir /home/test/tests/proc-test/33
+READ kdevtmpfs
+ FROM /home/test/tests/proc-test/33/commScanning dir /home/test/tests/proc-test/34
+READ netns
+ FROM /home/test/tests/proc-test/34/commScanning dir /home/test/tests/proc-test/35
+READ perf
+ FROM /home/test/tests/proc-test/35/commScanning dir /home/test/tests/proc-test/36
+READ writeback
+ FROM /home/test/tests/proc-test/36/commScanning dir /home/test/tests/proc-test/37
+READ kintegrityd
+ FROM /home/test/tests/proc-test/37/commScanning dir /home/test/tests/proc-test/38
+READ bioset
+ FROM /home/test/tests/proc-test/38/commScanning dir /home/test/tests/proc-test/385
+READ kdmflush
+ FROM /home/test/tests/proc-test/385/commScanning dir /home/test/tests/proc-test/386
+READ bioset
+ FROM /home/test/tests/proc-test/386/commScanning dir /home/test/tests/proc-test/39
+READ kblockd
+ FROM /home/test/tests/proc-test/39/commScanning dir /home/test/tests/proc-test/395
+READ kdmflush
+ FROM /home/test/tests/proc-test/395/commScanning dir /home/test/tests/proc-test/396
+READ bioset
+ FROM /home/test/tests/proc-test/396/commScanning dir /home/test/tests/proc-test/40
+READ md
+ FROM /home/test/tests/proc-test/40/commScanning dir /home/test/tests/proc-test/411
+READ xfsalloc
+ FROM /home/test/tests/proc-test/411/commScanning dir /home/test/tests/proc-test/412
+READ xfs_mru_cache
+ FROM /home/test/tests/proc-test/412/commScanning dir /home/test/tests/proc-test/413
+READ xfs-buf/dm-0
+ FROM /home/test/tests/proc-test/413/commScanning dir /home/test/tests/proc-test/414
+READ xfs-data/dm-0
+ FROM /home/test/tests/proc-test/414/commScanning dir /home/test/tests/proc-test/415
+READ xfs-conv/dm-0
+ FROM /home/test/tests/proc-test/415/commScanning dir /home/test/tests/proc-test/416
+READ xfs-cil/dm-0
+ FROM /home/test/tests/proc-test/416/commScanning dir /home/test/tests/proc-test/417
+READ xfs-reclaim/dm-
+ FROM /home/test/tests/proc-test/417/commScanning dir /home/test/tests/proc-test/418
+READ xfs-log/dm-0
+ FROM /home/test/tests/proc-test/418/commScanning dir /home/test/tests/proc-test/419
+READ xfs-eofblocks/d
+ FROM /home/test/tests/proc-test/419/commScanning dir /home/test/tests/proc-test/420
+READ xfsaild/dm-0
+ FROM /home/test/tests/proc-test/420/commScanning dir /home/test/tests/proc-test/424
+READ kworker/u16:0
+ FROM /home/test/tests/proc-test/424/commScanning dir /home/test/tests/proc-test/44
+READ  FROM /home/test/tests/proc-test/44/commScanning dir /home/test/tests/proc-test/45
+READ  FROM /home/test/tests/proc-test/45/commScanning dir /home/test/tests/proc-test/46
+READ  FROM /home/test/tests/proc-test/46/commScanning dir /home/test/tests/proc-test/47
+READ  FROM /home/test/tests/proc-test/47/commScanning dir /home/test/tests/proc-test/48
+READ  FROM /home/test/tests/proc-test/48/commScanning dir /home/test/tests/proc-test/49
+READ  FROM /home/test/tests/proc-test/49/commScanning dir /home/test/tests/proc-test/4906
+READ  FROM /home/test/tests/proc-test/4906/commScanning dir /home/test/tests/proc-test/494
+READ  FROM /home/test/tests/proc-test/494/commScanning dir /home/test/tests/proc-test/536
+READ  FROM /home/test/tests/proc-test/536/commScanning dir /home/test/tests/proc-test/560
+READ  FROM /home/test/tests/proc-test/560/commScanning dir /home/test/tests/proc-test/561
+READ  FROM /home/test/tests/proc-test/561/commScanning dir /home/test/tests/proc-test/562
+READ  FROM /home/test/tests/proc-test/562/commScanning dir /home/test/tests/proc-test/563
+READ  FROM /home/test/tests/proc-test/563/commScanning dir /home/test/tests/proc-test/564
+READ  FROM /home/test/tests/proc-test/564/commScanning dir /home/test/tests/proc-test/5644
+READ  FROM /home/test/tests/proc-test/5644/commScanning dir /home/test/tests/proc-test/5645
+READ  FROM /home/test/tests/proc-test/5645/commScanning dir /home/test/tests/proc-test/565
+READ  FROM /home/test/tests/proc-test/565/commScanning dir /home/test/tests/proc-test/566
+READ  FROM /home/test/tests/proc-test/566/commScanning dir /home/test/tests/proc-test/567
+READ  FROM /home/test/tests/proc-test/567/commScanning dir /home/test/tests/proc-test/5688
+READ  FROM /home/test/tests/proc-test/5688/commScanning dir /home/test/tests/proc-test/57
+READ  FROM /home/test/tests/proc-test/57/commScanning dir /home/test/tests/proc-test/580
+READ  FROM /home/test/tests/proc-test/580/commScanning dir /home/test/tests/proc-test/581
+READ  FROM /home/test/tests/proc-test/581/commScanning dir /home/test/tests/proc-test/582
+READ  FROM /home/test/tests/proc-test/582/commScanning dir /home/test/tests/proc-test/583
+READ  FROM /home/test/tests/proc-test/583/commScanning dir /home/test/tests/proc-test/584
+READ  FROM /home/test/tests/proc-test/584/commScanning dir /home/test/tests/proc-test/585
+READ  FROM /home/test/tests/proc-test/585/commScanning dir /home/test/tests/proc-test/5856
+READ  FROM /home/test/tests/proc-test/5856/commScanning dir /home/test/tests/proc-test/586
+READ  FROM /home/test/tests/proc-test/586/commScanning dir /home/test/tests/proc-test/587
+READ  FROM /home/test/tests/proc-test/587/commScanning dir /home/test/tests/proc-test/588
+READ  FROM /home/test/tests/proc-test/588/commScanning dir /home/test/tests/proc-test/59
+READ  FROM /home/test/tests/proc-test/59/commScanning dir /home/test/tests/proc-test/591
+READ  FROM /home/test/tests/proc-test/591/commScanning dir /home/test/tests/proc-test/597
+READ  FROM /home/test/tests/proc-test/597/commScanning dir /home/test/tests/proc-test/598
+READ  FROM /home/test/tests/proc-test/598/commScanning dir /home/test/tests/proc-test/599
+READ  FROM /home/test/tests/proc-test/599/commScanning dir /home/test/tests/proc-test/60
+READ  FROM /home/test/tests/proc-test/60/commScanning dir /home/test/tests/proc-test/600
+READ  FROM /home/test/tests/proc-test/600/commScanning dir /home/test/tests/proc-test/601
+READ  FROM /home/test/tests/proc-test/601/commScanning dir /home/test/tests/proc-test/602
+READ  FROM /home/test/tests/proc-test/602/commScanning dir /home/test/tests/proc-test/603
+READ  FROM /home/test/tests/proc-test/603/commScanning dir /home/test/tests/proc-test/604
+READ  FROM /home/test/tests/proc-test/604/commScanning dir /home/test/tests/proc-test/62
+READ  FROM /home/test/tests/proc-test/62/commScanning dir /home/test/tests/proc-test/644
+READ  FROM /home/test/tests/proc-test/644/commScanning dir /home/test/tests/proc-test/649
+READ  FROM /home/test/tests/proc-test/649/commScanning dir /home/test/tests/proc-test/653
+READ  FROM /home/test/tests/proc-test/653/commScanning dir /home/test/tests/proc-test/673
+READ  FROM /home/test/tests/proc-test/673/commScanning dir /home/test/tests/proc-test/7
+READ  FROM /home/test/tests/proc-test/7/commScanning dir /home/test/tests/proc-test/7103
+READ  FROM /home/test/tests/proc-test/7103/commScanning dir /home/test/tests/proc-test/7174
+READ  FROM /home/test/tests/proc-test/7174/commScanning dir /home/test/tests/proc-test/7175
+READ  FROM /home/test/tests/proc-test/7175/commScanning dir /home/test/tests/proc-test/7234
+READ  FROM /home/test/tests/proc-test/7234/commScanning dir /home/test/tests/proc-test/7249
+READ  FROM /home/test/tests/proc-test/7249/commScanning dir /home/test/tests/proc-test/8
+READ  FROM /home/test/tests/proc-test/8/commScanning dir /home/test/tests/proc-test/81
+READ  FROM /home/test/tests/proc-test/81/commScanning dir /home/test/tests/proc-test/9
+READ  FROM /home/test/tests/proc-test/9/comm1
+2
+3
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+32
+33
+34
+35
+36
+37
+38
+39
+40
+112
+281
+284
+286
+289
+292
+293
+294
+295
+296
+298
+305
+309
+385
+386
+395
+396
+411
+412
+413
+414
+415
+416
+417
+418
+419
+420
+424
+1006
+1067
+1069
+2034
+2078
+2828
+2923
+19723
+24023
+24037
+24038
+24147
+24153
+24154
+27556
+27990
+28102
+29401
+29523
+29558
+29559
+29562
+29563
+29564
+29565
+29566
+29567
+29568
+29569
+29573
+29591
+29713
+29714
+29956
+30053
+30377
+30378
+30379
+30380
+30381
+30457
+30458
+30459
+30910
+30966
+30973
+30982
+30983
+30984
+30985
+30986
+30987
+30988
+30989
+31099
+31154
+31181
+31264
+31273
+31298
+31386
+31422
+32599
